@@ -1,3 +1,6 @@
+
+# UX
+
 ## Strategy- Business Goals
 
 ### What are the tech considerations?
@@ -39,4 +42,20 @@ This project will be a mobile first approach which is making sure the website lo
 
 
 
+## Skeleton
 
+### Navigation design
+
+#### How will the users get around?
+
+The user will can navigate around with the navbar which enables them to go to sub-pages. The navbar will be located at the top of the page and it will be fixed so that the user doesn't have to scroll up and down all the time. The navbar will be horizontal on all deivces. The most important information will be first on the page because this is what most likely the user wants to see.
+
+
+
+#### Interface design
+
+1. The interface design will be responsive on different devices.
+2. color scheme will be consistent and simple across the main page and sub-pages.
+3. Elements that can be interactive with such as buttons with hovering effects.
+4. Structure will remain similar on sub-pages for familiarity.
+5. Accessible for screen readers.
