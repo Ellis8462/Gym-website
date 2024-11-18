@@ -1,61 +1,30 @@
+PureHealth Gym
 
-# UX
-
-## Strategy- Business Goals
-
-### What are the tech considerations?
-
-This project will be a mobile first approach which is making sure the website looks good for mobile users first. Creating a website mobile first is important because most users use their phones now days to access the internet which is why it is a priority. More people have phones then they do desktops. Making it simple allows the user to find and get to where they need to be quicker so that they don't get frustrated from trying to find information about the gym. 
+## 1. UX
 
 
-### Why are we special?
+### Project Goals
 
-1. We prioritize how a user navigates around the website such as keeping it simple and not too complex to cater towards people that don't use the internet much such as the older generation. Making it too complex can overwhelm the user.
-2. We make sure that the website is accessible on most devices and that it adapts to most screen sizes which makes sure that the user has the best experience viewing and navigating the website.
-3. Having features that the user can interact with such as different CSS effects like hovering over a element and what happens to elements you click on.
-4. It is a website that caters to all demographic types.
+#### User
 
+Allows clients or potenial clients to view information about the gym on the web. This allows users to find information such as membership types, scheduling, location and etc. Users can pay for a membership from one of the options presented to them on the website. Paying online saves travel cost of traveling to the gym directly to pay.
 
-### Why would a user want this?
-
-1. A design that is visually appealing and not cluttered with information.
-2. Accessible on most devices which helps the users navigation no matter on what device they are on.
-3. Easy to understand with great navigation so that the user can find what they want to.
+Different users will be looking for the same or different goals when visiting the website. The most important infomation on the page will be at the top so users can see it first when navigating. The website will help inspire and motivate users to join the gym and to start or continue their fitness journey. Having a website that is easy to use will help older demographics who might have less experience on the internet. It targets any demographic because health and fitness is important to all. Users will start on the index.html which is the homepage, from there they can navigate around the website and can go onto other pages such as contact.html which dedicates the entire page with the information they are looking for.
 
 
-## Scope
+#### Site owner
 
-1. The website will need a simple user navigation which helps users find information they need to find the most simple way.
-2. Contact section which will enables users to contact the gym and personal trainers.
-3. Review section which enable users to see reviews made by other members which could decide on them buying a membership. If they are a member they can write down their own review to give feedback for improvements.
-4. Scheduling section which gives the user a understanding on what times and days classes are on as well as booking for a class session.
-5. Content section so the user can see pictures of the gym and the type of enviroment.
+Our goal is to promote health and fitness and help people improve their physical and mental health by helping users join the gym. 
+
+As a result of this goal, we will provide a website that looks visually appealing and easy navigation to catch the users eye. Doing this will help the user to understand the benefits of joining the gym and learning information about it.
 
 
 
 
-## Structure 
 
-1. Navbar that is vertical on all the html pages so that it is consistent which has important links to them which the user will be looking for.
-2. Important information will be towards the top of the page so that the user doesn't have to scroll and look for it.
-3. Different pages have similar layouts so that the user has a good understanding on how to navigate around the website no matter on what link they press on.
+## 2. Design
 
 
-
-## Skeleton
-
-### Navigation design
-
-#### How will the users get around?
-
-The user will can navigate around with the navbar which enables them to go to sub-pages. The navbar will be located at the top of the page and it will be fixed so that the user doesn't have to scroll up and down all the time. The navbar will be horizontal on all deivces. The most important information will be first on the page because this is what most likely the user wants to see.
+### colours
 
 
-
-#### Interface design
-
-1. The interface design will be responsive on different devices.
-2. color scheme will be consistent and simple across the main page and sub-pages.
-3. Elements that can be interactive with such as buttons with hovering effects.
-4. Structure will remain similar on sub-pages for familiarity.
-5. Accessible for screen readers.
