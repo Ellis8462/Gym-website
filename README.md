@@ -25,6 +25,6 @@ As a result of this goal, we will provide a website that looks visually appealin
 ## 2. Design
 
 
-### colours
+### Colours
 
 

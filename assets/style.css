@@ -1,0 +1,108 @@
+
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Galindo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Dirt&family=Shrikhand&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Galindo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Markazi+Text:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Dirt&family=Shrikhand&display=swap');
+* {
+
+    box-sizing: border-box;
+    
+}
+
+/* CSS variables */ 
+:root {
+    --primary-color: #C93650;
+    --secondary-color: #1f080c;
+    --highlight-color: ;
+    --highlight-color-light: ;
+}
+
+
+body {
+   
+   background-color: white;
+   font-family: "Markazi Text", serif;
+   font-size: 20px;
+   
+}
+
+h1 {
+
+    color: var(--secondary-color);
+    font-family: "bungee" , sans-serif;
+    
+}
+
+
+.section {
+
+    padding: 6rem;
+}
+.navbar-brand{
+    
+    font-family: "Shrikhand", serif;
+}
+
+
+
+
+#navbar {
+    background-color: var(--primary-color);
+    height: 6rem;
+    
+   
+}
+
+.nav-link{
+
+    color: rgb(0, 0, 0);
+    
+    
+}
+
+
+
+.navbar-nav > li{
+    padding-left:60px;
+    padding-right:30px;
+  }
+
+ #navbarNavDropdown {
+
+    background-color: var(--primary-color);
+    
+ }
+
+#nav-background{
+
+    background-color: var(--primary-color)
+}
+/* Medium queries */
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    
+}
+
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+  
+    
+  
+}
+
+
+/* Extra large devices (laptops & desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+   
+}
+
+
+
+
+
+/* xxl devices (laptops & desktops, 1200px and up) */
+@media screen and (min-width: 1400px) {
+   
+}
