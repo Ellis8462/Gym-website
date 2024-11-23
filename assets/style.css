@@ -13,7 +13,7 @@
 /* CSS variables */ 
 :root {
     --primary-color: #C93650;
-    --secondary-color: #1f080c;
+    --secondary-color: #36c9af;
     --highlight-color: ;
     --highlight-color-light: ;
 }
@@ -25,11 +25,13 @@ body {
    font-family: "Markazi Text", serif;
    font-size: 20px;
    
+   
+   
 }
 
 h1 {
 
-    color: var(--secondary-color);
+    color: white;
     font-family: "bungee" , sans-serif;
     
 }
@@ -39,6 +41,13 @@ h1 {
 
     padding: 6rem;
 }
+
+
+header {
+
+    height: 96px;
+}
+
 
 
 /* Navbar */
@@ -52,7 +61,7 @@ h1 {
 
 
 
-#navbar {
+ #navbar {
     background-color: var(--primary-color);
     height: 6rem;
     
@@ -61,7 +70,8 @@ h1 {
 
 .nav-link{
 
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
     
     
 }
@@ -69,7 +79,7 @@ h1 {
 
 .nav-link:hover {
 
-    color: white;
+    color: var(--secondary-color);
     transition: 0.5s;
     
 }
@@ -91,11 +101,40 @@ h1 {
 
     background-color: var(--primary-color)
 }
+
+
+#hero {
+
+    background: linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.7) 65%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/gym-5000169_1920.jpg) no-repeat center center;
+    height: 70vh;
+    
+    
+}
+
+#hero-text {
+
+    position: relative;
+    top: 390px;
+    
+}
+
+.join-now {
+
+    background-color: var(--secondary-color);
+    border: none;
+    border-radius:5px ;
+    padding: 12px;
+    font-weight: bold;
+}
+
+
+
 /* Medium queries */
 
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
-    
+
+   
 }
 
 /* Large devices (small laptops, 992px and up) */
@@ -118,4 +157,20 @@ h1 {
 /* xxl devices (laptops & desktops, 1200px and up) */
 @media screen and (min-width: 1400px) {
    
+   
+}
+
+
+
+/* desktops 1920px plus */
+@media screen and (min-width: 1920px) {
+   
+    #hero {
+
+       
+        background: linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.7) 65%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/gym-1920plus.jpg) no-repeat center center;
+        height: 70vh;
+        
+        
+    }
 }
