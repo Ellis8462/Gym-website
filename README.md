@@ -44,3 +44,9 @@ CSS - This language I also mainly used to style my html elements to make them lo
 Bootstrap - I used Bootstrap to make responsive layouts which help on adapt to different screen sizes.
 
 Google Fonts - Google fonts helps me to customise texts making them suitable for my website. They provide me with more options for font customization.
+
+Balsamiq Wireframes - Used to create wireframes to help plan the structure of my website.
+
+GitHub - I use GitHub to store source code as well as keeping track on tasks.
+
+Git- Git is a software that allows me to send my code to GitHub to store.
