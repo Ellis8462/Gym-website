@@ -28,3 +28,19 @@ As a result of this goal, we will provide a website that looks visually appealin
 ### Colours
 
 
+
+
+
+
+
+
+
+## Technologies
+
+HTML - The main language I use for this website is HTML which is the foundation and the structure of the website.
+
+CSS - This language I also mainly used to style my html elements to make them look more visually appealing to users that navigate my website.
+
+Bootstrap - I used Bootstrap to make responsive layouts which help on adapt to different screen sizes.
+
+Google Fonts - Google fonts helps me to customise texts making them suitable for my website. They provide me with more options for font customization.
