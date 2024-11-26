@@ -140,7 +140,7 @@ background-color: var(--secondary-color);
 
 #hero {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.7) 65%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/gym-5000169_1920.jpg) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.7) 65%, rgba(0, 0, 0, 0.9) 90%), url(assets/images/gym-5000169_1920.jpg) no-repeat center center;
     height: 100vh;
     background-attachment: fixed;
    
