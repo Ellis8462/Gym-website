@@ -26,7 +26,7 @@ body {
    background-color: #efeaef;
    font-family: "Markazi Text", serif;
    font-size: 20px;
-   color: white;
+   color: rgb(0, 0, 0);
    display: flex;
    
    
@@ -42,16 +42,18 @@ h1 {
 }
 
 h2 {
-    color: #0d060d;
-    font-family: "Tinos", serif;
+    color: rgb(0, 0, 0);
+    font-family: "bungee" , sans-serif;
     font-weight: 400;
     font-style: normal;
+    
 }
 
 
 .section {
 
-    padding: 6rem;
+    padding: 4rem;
+    
     
     
 }
@@ -141,33 +143,50 @@ background-color: var(--secondary-color);
 #hero {
 
     background: linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.7) 65%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/gym-5000169_1920.jpg) no-repeat center center;
-    height: 100vh;
+    height: 60vh;
     background-attachment: fixed;
+    background-size: cover;
    
     
     
 }
 
-#hero-text {
+.hero-text {
 
-    position: relative;
-    top: 390px;
-   
-    
+    margin-top: 230px;
+  text-shadow: 2px 2px 4px #000000;
 }
 
-.join-now {
+
+#join-button {
 
     background-color: #c0abc0;
     border: none;
     border-radius:5px ;
-    padding: 12px;
+    padding: 18px;
     font-weight: bold;
 }
 
 
 /* What we offer section */
 
+.card {
+
+    min-width: 160px ;
+    border: 2px solid black;
+}
+
+.card-body {
+
+    background-color: var(--secondary-color);
+}
+
+.row-background {
+    border-radius: 50px;
+    padding: 20px;
+    
+   
+}
 
 
 
@@ -179,19 +198,52 @@ background-color: var(--secondary-color);
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
 
+  .card {
+
+    height: 380px;
+    
+  }
+
+
+  .margin-bottom {
+
+    margin-bottom: 48px;
+  }
+
+  .row {
+
+    align-items: center;
+}
+
+
    
 }
 
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
   
-    
-  
-}
+    .card {
 
+        height: 500px;
+        
+    }
+    
+    .row {
+
+        align-items: center;
+    }
+
+    .margin-bottom {
+
+        margin-bottom: 48px;
+      }
+
+}
 
 /* Extra large devices (laptops & desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
+
+
    
 }
 
@@ -209,14 +261,5 @@ background-color: var(--secondary-color);
 
 /* desktops 1920px plus */
 @media screen and (min-width: 1920px) {
-   
-    #hero {
-
-       
-        background: linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.7) 65%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/gym-1920plus.jpg) no-repeat center center;
-        height: 100vh;
-        background-attachment: fixed;
-        
-        
-    }
+    
 }
