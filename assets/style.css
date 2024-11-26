@@ -12,8 +12,8 @@
 
 /* CSS variables */ 
 :root {
-    --primary-color: #C93650;
-    --secondary-color: #36c9af;
+    --primary-color: #622d62;
+    --secondary-color: #c0abc0;
     --highlight-color: ;
     --highlight-color-light: ;
 }
@@ -21,7 +21,7 @@
 
 body {
    
-   background-color: white;
+   background-color: #0d060d;
    font-family: "Markazi Text", serif;
    font-size: 20px;
    
@@ -56,6 +56,14 @@ header {
     
     font-family: "Shrikhand", serif;
     font-size: 1.5rem;
+    color:white;
+    
+}
+
+#dumbbell {
+
+    
+    color: rgb(0, 0, 0);
 }
 
 
@@ -63,10 +71,18 @@ header {
 
  #navbar {
     background-color: var(--primary-color);
+
     height: 6rem;
     
    
 }
+
+.navbar-toggler {
+
+background-color: var(--secondary-color);
+}
+
+
 
 .nav-link{
 
@@ -79,7 +95,7 @@ header {
 
 .nav-link:hover {
 
-    color: var(--secondary-color);
+    color: #0d060d;
     transition: 0.5s;
     
 }
@@ -95,11 +111,13 @@ header {
 
     background-color: var(--primary-color);
     
+    
  }
 
 #nav-background{
 
-    background-color: var(--primary-color)
+    background-color: var(--primary-color);
+    
 }
 
 
@@ -120,7 +138,7 @@ header {
 
 .join-now {
 
-    background-color: var(--secondary-color);
+    background-color: #c0abc0;
     border: none;
     border-radius:5px ;
     padding: 12px;
