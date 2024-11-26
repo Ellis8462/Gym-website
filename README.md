@@ -27,9 +27,10 @@ As a result of this goal, we will provide a website that looks visually appealin
 
 ### Colours
 
+I kept the same colour but changed the shades and tints of it. This ensures that I keep the same consistency throughout the website as well as it blending well together.
 
 
-
+![monochromatic](https://github.com/user-attachments/assets/96281cc4-a892-4499-8317-7c41c081980e)
 
 
 
