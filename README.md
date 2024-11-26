@@ -63,3 +63,5 @@ Navbar - https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works
 
 Images - https://pixabay.com/  https://pixabay.com/users/lewisgoodphotos-15859574/
 
+text-shadow h1 - https://www.w3schools.com/cssref/css3_pr_text-shadow.php
+
