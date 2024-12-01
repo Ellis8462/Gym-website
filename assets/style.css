@@ -4,8 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Galindo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Dirt&family=Shrikhand&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Galindo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Markazi+Text:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Dirt&family=Shrikhand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Galindo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Markazi+Text:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Dirt&family=Shrikhand&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Galindo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Markazi+Text:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Dirt&family=Shrikhand&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* Barlow */
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bungee&family=Galindo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Markazi+Text:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Dirt&family=Shrikhand&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 * {
 
     box-sizing: border-box;
@@ -14,19 +16,20 @@
 
 /* CSS variables */ 
 :root {
-    --primary-color: #622d62;
-    --secondary-color: #c0abc0;
-    --highlight-color: ;
-    --highlight-color-light: ;
+    --primary-color: rgb(236, 232, 232);
+    --secondary-color:#c031dd;
+    
+    
+    
 }
 
 
 body {
    
-   background-color: #efeaef;
+   background-color: #fdf8f8;
    font-family: "Markazi Text", serif;
-   font-size: 20px;
-   color: rgb(0, 0, 0);
+   font-size: 16px;
+   color: rgb(255, 251, 251);
    display: flex;
    
    
@@ -42,9 +45,9 @@ h1 {
 }
 
 h2 {
-    color: rgb(0, 0, 0);
-    font-family: "bungee" , sans-serif;
-    font-weight: 400;
+    color: rgb(255, 255, 255);
+    font-family: "Barlow", sans-serif;
+    font-weight: 700;
     font-style: normal;
     
 }
@@ -59,21 +62,46 @@ h2 {
 }
 
 
-header {
-
-    height: 96px;
-}
 
 
 
 /* Navbar */
 
+.navbar {
+
+    background-color: rgb(46, 45, 46);
+  
+}
+
 .navbar-brand{
     
     font-family: "Shrikhand", serif;
     font-size: 1.5rem;
-    color:white;
+    color:rgb(0, 0, 0);
+    font-style: oblique;
+   
     
+}
+
+/* Found this on chrome dev tools which made the brand logo change colour */
+.navbar-brand:focus, .navbar-brand:hover {
+    color: #000000;
+}
+
+/* Fixes boostrap active color */
+.navbar-nav .nav-link {
+
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand:hover {
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px var(--secondary-color);
+}
+
+ .navbar-brand:active {
+
+    color: rgb(0, 0, 0);
 }
 
 #dumbbell {
@@ -87,24 +115,25 @@ header {
 
 
  #navbar {
-    background-color: var(--primary-color);
 
-    height: 6rem;
+ background-color: var(--primary-color);
+ height: 6rem;
     
    
 }
 
 .navbar-toggler {
 
-background-color: var(--secondary-color);
-}
+    border-color: white;
 
+}
 
 
 .nav-link{
 
     color: rgb(255, 255, 255);
-    font-weight: 600;
+    font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     
     
 }
@@ -112,11 +141,16 @@ background-color: var(--secondary-color);
 
 .nav-link:hover {
 
-    color: #0d060d;
+    color: var(--secondary-color);
     transition: 0.5s;
     
 }
 
+ .active {
+
+    font-weight: 600;
+    
+}
 
 
 .navbar-nav > li{
@@ -124,6 +158,14 @@ background-color: var(--secondary-color);
     padding-right:30px;
   }
 
+
+
+  .navbar-nav > li:active{
+    color: white;
+  }
+
+
+  .navbar-nav > li
  #navbarNavDropdown {
 
     background-color: var(--primary-color);
@@ -134,6 +176,8 @@ background-color: var(--secondary-color);
 #nav-background{
 
     background-color: var(--primary-color);
+   
+    
     
 }
 
@@ -142,8 +186,8 @@ background-color: var(--secondary-color);
 
 #hero {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.7) 65%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/gym-5000169_1920.jpg) no-repeat center center;
-    height: 60vh;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplash\ \(1\).jpg) no-repeat center center;
+    height: 85vh;
     background-attachment: fixed;
     background-size: cover;
    
@@ -152,7 +196,7 @@ background-color: var(--secondary-color);
 }
 
 .hero-text {
-
+    color: rgb(255, 255, 255);
     margin-top: 230px;
   text-shadow: 2px 2px 4px #000000;
 }
@@ -160,35 +204,100 @@ background-color: var(--secondary-color);
 
 #join-button {
 
-    background-color: #c0abc0;
+    background-color: var(--secondary-color);
     border: none;
     border-radius:5px ;
     padding: 18px;
     font-weight: bold;
+    color: #ffffff;
 }
 
 
+
+#join-button:hover {
+
+    background-color:#5d186d ;
+    color: white;
+    transition: 0.8s;
+}
+
 /* What we offer section */
 
+
+#offer-section {
+    background-color: #0e0d0d;
+    padding-top: 120px;
+ 
+    
+}
+
+
+
+#offer-title {
+    font-family: "bungee" , sans-serif;
+    position: relative;
+    top: 50%;
+    font-size: 2rem;
+   
+   
+    
+}
 .card {
 
-    min-width: 160px ;
-    border: 2px solid black;
+    min-width: 140px ;
+    border: 0px solid black;
+    background-color: #181717;
+    
+    
 }
 
 .card-body {
 
-    background-color: var(--secondary-color);
+    background-color:#554e55 ;
+    border: 1px solid black;
+    color: white;
+
+    min-width: 140px;
+    
+    
 }
 
+
+/*
 .row-background {
-    border-radius: 50px;
-    padding: 20px;
+   
+    background-color: #000000;
+    
     
    
 }
+*/
+.card-border {
+
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+   padding-left: 0;
+   padding-right: 0;
+   border-image-source: linear-gradient(to right, #743ad5, #d53a9d); 
+}
 
 
+
+
+.card-title {
+    color: rgb(253, 253, 253);
+    font-family: "bungee" , sans-serif;
+    font-size: 18px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.card-img-top {
+
+    min-width: 140px;
+    
+}
 
 
 
@@ -198,10 +307,24 @@ background-color: var(--secondary-color);
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
 
+
+
+    body {
+
+        font-size: 20px;
+    }
+
+    /* What we offer section */
+
   .card {
 
-    height: 380px;
+    height: 400px;
     
+  }
+
+  .card-img-top{
+
+    min-height: 176px;
   }
 
 
@@ -215,9 +338,33 @@ background-color: var(--secondary-color);
     align-items: center;
 }
 
+.row-background {
+
+    justify-content: center;
+    
+}
+
+
+.card-border {
+
+  
+   padding-right: 0;
+   display: flex;
+   align-items: flex-start;
+   margin-left: 10px;
+   
+  
+  
+}
+
+
+
+    
+}
+
 
    
-}
+
 
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
@@ -227,10 +374,22 @@ background-color: var(--secondary-color);
         height: 500px;
         
     }
+
+    .card-img-top {
+
+        max-height: 267px;
+        max-width: 500px;
+    }
     
     .row {
 
         align-items: center;
+    }
+
+    .row-background {
+
+        justify-content: center;
+        
     }
 
     .margin-bottom {
@@ -238,12 +397,42 @@ background-color: var(--secondary-color);
         margin-bottom: 48px;
       }
 
+
+    #nav-background {
+
+        border: none;
+    }
+
+    /* Makes navbar links stay on page for 992px and up */
+    .navbar-nav > li{
+        padding-left:50px;
+        padding-right:30px;
+      }
+    
 }
 
 /* Extra large devices (laptops & desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
 
+    /* what we have to offer section */
 
+    .card-title {
+
+        font-size: 22px;
+    }
+
+    .card-img-top {
+
+        max-height: 500px;
+        max-width: 500px;
+    }
+    
+
+    .row-background {
+
+        justify-content:center;
+        
+    }
    
 }
 
@@ -251,9 +440,15 @@ background-color: var(--secondary-color);
 
 
 
-/* xxl devices (laptops & desktops, 1200px and up) */
+/* xxl devices (laptops & desktops, 1400px and up) */
 @media screen and (min-width: 1400px) {
    
+    .row-background {
+
+        justify-content:space-evenly;
+        
+    }
+
    
 }
 
