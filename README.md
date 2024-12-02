@@ -14,7 +14,7 @@ Different users will be looking for the same or different goals when visiting th
 
 #### Site owner
 
-Our goal is to promote health and fitness and help people improve their physical and mental health by helping users join the gym. 
+Our goal is to promote health and fitness and help people improve their physical and mental health by helping users join the gym for the locals. 
 
 As a result of this goal, we will provide a website that looks visually appealing and easy navigation to catch the users eye. Doing this will help the user to understand the benefits of joining the gym and learning information about it.
 
