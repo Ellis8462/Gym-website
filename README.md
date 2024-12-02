@@ -27,11 +27,10 @@ As a result of this goal, we will provide a website that looks visually appealin
 
 ### Colours
 
-I kept the same colour but changed the shades and tints of it. This ensures that I keep the same consistency throughout the website as well as it blending well together.
+For my colours, I wanted the main colours to be purple but decided that it would better and easier to see the text with a type of dark gray. For my secondary colour I chose a lighter gray which goes well with my main colour. Both colours makes it easier to see white text so that the text doesn't blend in with the background. For my accent colours I decided to make that a purple color which was orignally going to be my main colour. The purple makes interactive features stand out such as buttons and links. Hovering effect will be a a darker shade of purple with white text.
 
 
-![monochromatic](https://github.com/user-attachments/assets/96281cc4-a892-4499-8317-7c41c081980e)
-
+![primary-color](https://github.com/user-attachments/assets/2d27955f-9de5-49e3-bda3-b04557cc494a)![secondary-color](https://github.com/user-attachments/assets/d2559f75-1315-438a-a0af-f9ce80a8d005)![accent-colors](https://github.com/user-attachments/assets/3a9e2776-fb95-4406-80c0-b5c31dbb5aad)
 
 
 
