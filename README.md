@@ -19,10 +19,11 @@ Our goal is to promote health and fitness and help people improve their physical
 As a result of this goal, we will provide a website that looks visually appealing and easy navigation to catch the users eye. Doing this will help the user to understand the benefits of joining the gym and learning information about it.
 
 
+## User stories
 
 
 
-## 2. Design
+## 3. Design
 
 
 ### Colours
