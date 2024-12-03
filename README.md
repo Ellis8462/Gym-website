@@ -22,7 +22,9 @@ As a result of this goal, we will provide a website that looks visually appealin
 
 ## User stories
 
-### User story 1
+### User 
+
+As a gym member or a potenial member, I would like to find out information on the local gym such as the opening and closing times, location and memberships.
 
 
 
