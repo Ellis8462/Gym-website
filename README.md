@@ -24,8 +24,21 @@ As a result of this goal, we will provide a website that looks visually appealin
 
 ### User 
 
-As a gym member or a potenial member, I would like to find out information on the local gym such as the opening and closing times, location and memberships.
+**User story 1: As a gym member I would like to:**
 
+* Find out what times classes are on.
+* Book a personal training session.
+* Login to my gym account.
+* Follow for updates on social media.
+
+
+**User story 2: As a potenial member I would like to:**
+
+* Look for a variety of membership types.
+* See photos of the gym and the enviroment.
+* Contact the gym for more information.
+* Find the location.
+* See what the gym offers.
 
 
 ## 3. Design
