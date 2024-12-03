@@ -41,7 +41,7 @@ As a result of this goal, we will provide a website that looks visually appealin
 * See what the gym offers.
 
 
-## 3. Design
+## 2. Design
 
 
 ### Colours
@@ -54,7 +54,7 @@ For my colours, I wanted the main colours to be purple but decided that it would
 
 
 
-## Technologies
+## 3. Technologies
 
 HTML - The main language I use for this website is HTML which is the foundation and the structure of the website.
 
