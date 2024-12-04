@@ -64,6 +64,18 @@ h2 {
 }
 
 
+/* H2 */
+.headings {
+    font-family: "bungee" , sans-serif;
+    position: relative;
+    top: 50%;
+    font-size: 2rem;
+   
+   
+    
+}
+
+
 /* Navbar */
 
 .navbar {
@@ -85,7 +97,8 @@ h2 {
 
 /* Found this on chrome dev tools which made the brand logo change colour */
 .navbar-brand:focus, .navbar-brand:hover {
-    color: #000000;
+    color: #ffffff;
+    text-shadow: 3px 3px black;
 }
 
 /* Fixes boostrap active color */
@@ -233,16 +246,6 @@ h2 {
 }
 
 
-
-#offer-title {
-    font-family: "bungee" , sans-serif;
-    position: relative;
-    top: 50%;
-    font-size: 2rem;
-   
-   
-    
-}
 .card {
 
     min-width: 140px ;
@@ -264,15 +267,6 @@ h2 {
 }
 
 
-/*
-.row-background {
-   
-    background-color: #000000;
-    
-    
-   
-}
-*/
 .card-border {
 
     border: 10px solid;
@@ -302,6 +296,19 @@ h2 {
 
 
 
+/* Location Section */
+
+#location-section {
+   background-color:black;
+   border-top: 1px solid purple;
+}
+
+#map {
+
+    width: 50vw;
+    height: 50vh;
+    border-radius: 20px;
+}
 
 /* Medium queries */
 
