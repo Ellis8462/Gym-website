@@ -40,6 +40,7 @@ As a result of this goal, we will provide a website that looks visually appealin
 * Find the location.
 * See what the gym offers.
 
+Understanding what users want helps me build and structure the website around them.
 
 ## 2. Design
 
@@ -76,6 +77,21 @@ Git- Git is a software that allows me to send my code to GitHub to store.
 ## 4. Features
 
 ## 5. Testing & Bugs
+
+### Bugs during development
+
+**Hero text**
+
+When adding my hero text it would blend into the background image therefore making it hard to see. To fix this I looked at the batala_bangor website that was sent to me by a mentor for a example of a project. I seen that they too used a white text for the hero image and seen how they used a linear gradient to make their text stand out from the image. I searched online to see how I could implement this code and came across w3schools.com. On the website I found the linear gradient on CSS functions. This fixed the white text that was blending into the background.
+
+
+**Card size on different devices**
+
+Noticed on chrome dev tools that when changing the screen sizes, the cards border would get wider but the card didn't. I first tried changing it in CSS but then went to the index.html page and changed the col size to a lower number on large screens.
+
+**Card layout on screens 1400px and above**
+
+i wanted the cards on the What we offer section to all fit on the same row but the fourth one would go underneath. I looked at my code and changed both the cards on the left and right side and made them col-xxl-2 instead of 3 which made all cards stay on the same row.
 
 
 ## Credits
