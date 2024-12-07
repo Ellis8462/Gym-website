@@ -75,6 +75,13 @@ h2 {
     
 }
 
+/* Removes underline from links */
+a {
+
+    text-decoration: none;
+    
+}
+
 
 /* Navbar */
 
@@ -313,11 +320,15 @@ h2 {
 }
 
 
+/* Footer */
+
+
 footer {
 
     background-color: var(--secondary-color);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: oblique;
+    
 }
 
 
@@ -331,6 +342,21 @@ footer {
 
     font-size: 18px;
 }
+
+.fa-brands {
+
+    width: 2.5rem;
+    color: white;
+    
+    
+}
+
+.fa-brands:hover {
+
+    color: var(--accent-color);
+    transition: 0.5s;
+}
+
 
 /* Medium queries */
 
