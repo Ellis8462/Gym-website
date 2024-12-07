@@ -28,7 +28,6 @@ As a result of this goal, we will provide a website that looks visually appealin
 
 * Find out what times classes are on.
 * Book a personal training session.
-* Login to my gym account.
 * Follow for updates on social media.
 
 
