@@ -330,13 +330,29 @@ a {
 
 /* opening/closing times */
 
+
+
+
+
 .table {
+    
     font-size: 20px;
     max-width: 700px;
+
+}
+
+    td {
+        font-style: oblique;
+    }
+    
+    
+    
+    
+    
    
     
    
-}
+
 
 
 
@@ -487,7 +503,18 @@ footer {
         padding-right:30px;
       }
     
-}
+
+
+      /* index table */
+
+      /* Makes the font larger by 5px more */
+      .table {
+            font-size: 25px;
+
+      }
+
+    }
+
 
 /* Extra large devices (laptops & desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
