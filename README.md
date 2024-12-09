@@ -44,6 +44,23 @@ Understanding what users want helps me build and structure the website around th
 ## 2. Design
 
 
+### Wireframes
+
+**Mobile**
+
+![Mobile](https://github.com/user-attachments/assets/517bd2da-5847-40cf-b0cf-1077d26bde47)
+
+**Tablet**
+
+![Tablet](https://github.com/user-attachments/assets/5717a87e-83ec-4a65-bcad-4c9ea58b46db)
+
+
+**Desktop**
+
+![Desktop](https://github.com/user-attachments/assets/407e7e30-0cb2-48e5-a1d8-eff81b6f4678)
+
+
+
 ### Colours
 
 For my colours, I wanted the main colours to be purple but decided that it would better and easier to see the text with a type of dark gray. For my secondary colour I chose a lighter gray which goes well with my main colour. Both colours makes it easier to see white text so that the text doesn't blend in with the background. For my accent colours I decided to make that a purple color which was orignally going to be my main colour. The purple makes interactive features stand out such as buttons and links. Hovering effect will be a a darker shade of purple with white text.
