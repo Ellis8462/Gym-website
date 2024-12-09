@@ -5,6 +5,11 @@ PureHealth Gym
 
 ### Project Goals
 
+#### Project purpose 
+
+The purpose of this project is to create a website that helps provide important information that the local gym offers. Having a gym website allows clients to engage with gym services online which makes it more accessible for the users. Having the information on the website also allows potenial members that want to know more information before paying for a membership. The design and features on the website will hopefully attract customers to the gym. It makes it easier for users to find what they want to instead of ringing up or visiting the gym which is why navigating the website is quicker.
+
+
 #### **User goals** ####
 
 Allows clients or potenial clients to view information about the gym on the web. This allows users to find information such as membership types, scheduling, location and etc. Users can pay for a membership from one of the options presented to them on the website. Paying online saves travel cost of traveling to the gym directly to pay.
@@ -42,6 +47,25 @@ As a result of this goal, we will provide a website that looks visually appealin
 Understanding what users want helps me build and structure the website around them.
 
 ## 2. Design
+
+
+### Wireframes
+
+I used Balsamiq Wireframes to help structure the wireframes before and during the design of the website. This helped me plan the design of the website by helping me apply the layout and the navigation. Using the software is good for designing layouts on different devices so that I can implement them later on.
+
+**Mobile**
+
+![Mobile](https://github.com/user-attachments/assets/517bd2da-5847-40cf-b0cf-1077d26bde47)
+
+**Tablet**
+
+![Tablet](https://github.com/user-attachments/assets/5717a87e-83ec-4a65-bcad-4c9ea58b46db)
+
+
+**Desktop**
+
+![Desktop](https://github.com/user-attachments/assets/407e7e30-0cb2-48e5-a1d8-eff81b6f4678)
+
 
 
 ### Colours
