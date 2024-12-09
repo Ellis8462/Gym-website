@@ -51,6 +51,8 @@ Understanding what users want helps me build and structure the website around th
 
 ### Wireframes
 
+I used Balsamiq Wireframes to help structure the wireframes before and during the design of the website. This helped me plan the design of the website by helping me apply the layout and the navigation. Using the software is good for designing layouts on different devices so that I can implement them later on.
+
 **Mobile**
 
 ![Mobile](https://github.com/user-attachments/assets/517bd2da-5847-40cf-b0cf-1077d26bde47)
