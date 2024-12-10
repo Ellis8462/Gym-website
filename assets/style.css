@@ -225,6 +225,16 @@ a {
     
 }
 
+
+#hero-membership {
+
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/meghan-holmes-buWcS7G1_28-unsplash\ \(1\).jpg) no-repeat center center;
+    height: 40vh;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
 .hero-text {
     color: rgb(255, 255, 255);
     margin-top: 230px;
@@ -311,6 +321,49 @@ a {
     
 }
 
+/* Membership.html */
+
+#membership-section {
+
+background-color: var(--primary-color);
+}
+
+
+#membership-h2-text {
+
+    font-size: 25px;
+    font-weight: 400;
+}
+
+
+.price {
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+
+.join-button {
+
+    background-color: var(--accent-color);
+    color: #ffffff;
+}
+
+
+.join-button:hover {
+
+
+    background-color: #5d186d;
+    transition: 0.8s;
+    border-radius:5px ;
+    font-weight: bold;
+}
+
+.card-padding {
+
+   background-color: var(--primary-color);
+    
+}
 
 
 /* Location Section */
