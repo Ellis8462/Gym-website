@@ -53,19 +53,23 @@ Understanding what users want helps me build and structure the website around th
 
 I used Balsamiq Wireframes to help structure the wireframes before and during the design of the website. This helped me plan the design of the website by helping me apply the layout and the navigation. Using the software is good for designing layouts on different devices so that I can implement them later on.
 
-**Mobile**
+<details> 
+<summary> Mobile </summary>
 
 ![Mobile](https://github.com/user-attachments/assets/517bd2da-5847-40cf-b0cf-1077d26bde47)
+</details>
 
-**Tablet**
+<details>
+<summary> Tablet </summary>
 
 ![Tablet](https://github.com/user-attachments/assets/5717a87e-83ec-4a65-bcad-4c9ea58b46db)
+</details>
 
-
-**Desktop**
+<details>
+<summary> Desktop </summary>
 
 ![Desktop](https://github.com/user-attachments/assets/407e7e30-0cb2-48e5-a1d8-eff81b6f4678)
-
+</details>
 
 
 ### Colours
@@ -82,22 +86,41 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 ## 3. Technologies
 
-HTML - The main language I use for this website is HTML which is the foundation and the structure of the website.
+### Languages used in this project
 
-CSS - This language I also mainly used to style my html elements to make them look more visually appealing to users that navigate my website.
+* HTML - The main language I use for this website is HTML which is the foundation and the structure of the website.
 
-Bootstrap - I used Bootstrap to make responsive layouts which help on adapt to different screen sizes.
+* CSS - This language I also mainly used to style my html elements to make them look more visually appealing to users that navigate my website.
 
-Google Fonts - Google fonts helps me to customise texts making them suitable for my website. They provide me with more options for font customization.
+### Tools used in the project
 
-Balsamiq Wireframes - Used to create wireframes to help plan the structure of my website.
+* [Bootstrap](https://getbootstrap.com/) - I used Bootstrap to make responsive layouts which help on adapt to different screen sizes.
 
-GitHub - I use GitHub to store source code as well as keeping track on tasks.
+* [Google Fonts](https://fonts.google.com/) - Google fonts helps me to customise texts making them suitable for my website. They provide me with more options for font customization.
 
-Git- Git is a software that allows me to send my code to GitHub to store.
+* [Balsamiq Wireframes](https://balsamiq.com/) - Used to create wireframes to help plan the structure of my website.
+
+* [GitHub](https://github.com/) - I use GitHub to store source code as well as keeping track on tasks.
+
+* [Git](https://git-scm.com/) - Git is a software that allows me to send my code to GitHub to store.
+
+* [FontAwesome](https://fontawesome.com/) - I used this for icons to make the website more visually appealing.
 
 
 ## 4. Features
+
+### Whole site
+
+#### **Nav bar**
+
+#### Hero Section
+
+**Mobile**
+
+**Tablet**
+
+**Desktop**
+
 
 ## 5. Testing & Bugs
 
