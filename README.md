@@ -122,9 +122,37 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 **Desktop**
 
 
+#### Footer
+
+### Home page
+
+
+### Membership page
+
+
+### Contact page
+
+### Gallery page
+
+### Other pages
+
+
+### Future features
+
 ## 5. Testing & Bugs
 
-### Bugs during development
+### HTML validation
+
+
+### CSS validation
+
+### Accessibility
+
+### Performance using Lighthouse
+
+### Testing on different devices
+
+### Bugs during development and fixes
 
 **Hero text**
 
@@ -138,6 +166,13 @@ Noticed on chrome dev tools that when changing the screen sizes, the cards borde
 **Card layout on screens 1400px and above**
 
 i wanted the cards on the What we offer section to all fit on the same row but the fourth one would go underneath. I looked at my code and changed both the cards on the left and right side and made them col-xxl-2 instead of 3 which made all cards stay on the same row.
+
+
+## Deployment
+
+
+### Github
+
 
 
 ## Credits
