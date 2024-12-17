@@ -113,7 +113,23 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 #### **Nav bar**
 
+- Navbar has the same design for each page to make it simple and familar.
+- The Navbar remains in a fixed position at the top of all pages so the user can navigate without having to scoll or the way back to the top.
+- The Navbar is fully responsive when testing it in chrome dev tools.
+- The page the user is on will be shown on the navbar and will have a higher font weight compared to the other pages.
+- When hovering over other nav links, it will show a colour of purple with a transition of 0.8s.
+- On phones and tablets the navbar links can be accessed when you press the toggle button on the far right side of the navbar.
+- Logo is placed on the far left of the navbar.
+
+
 #### Hero Section
+
+- Each hero on each devices will have a linear gradient so that the text stands out from the background.
+- Hero section of every page has a h1 title of what the page is about.
+- Home page has a button that links to the membership page with the words containing "join Now" which has a hover effect.
+- Home page hero image has a viewport height of 85vh and other pages have a hero image size of 40vh.
+- Each page contains a different hero image.
+- Hero image and text is responsive on different devices.
 
 **Mobile**
 
@@ -123,6 +139,12 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 
 #### Footer
+
+- The footer appears on all pages on the site.
+- The footer contains links to the gym's social media pages.
+- The footer has general contact information such as the gym's email and phone number.
+- The logo's of the social media links have a hovering effect to show that they can be pressed on.
+- The footer is responsive on different devices.
 
 ### Home page
 
