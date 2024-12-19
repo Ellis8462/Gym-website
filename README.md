@@ -231,3 +231,5 @@ Images - https://pixabay.com/  https://pixabay.com/users/lewisgoodphotos-1585957
 
 text-shadow h1 - https://www.w3schools.com/cssref/css3_pr_text-shadow.php
 
+SVG designs - https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/ Free SVG Backgrounds and Patterns by SVGBackgrounds.com
+

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PureHealth Gym | Contact </title>
+    <title>PureHealth Gym | Gallery</title>
 
     <!-- Bootstrap-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -36,15 +36,15 @@
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="/membership.html">Membership</a>
+                <a class="nav-link active" href="/membership.html">Membership</a>
               </li>
 
               <li class="nav-item">
-                <a class="nav-link active" href="#">Contact</a>
+                <a class="nav-link" href="/Contact.html">Contact</a>
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="/gallery.html">Gallery</a>
+                <a class="nav-link" href="#">Gallery</a>
               </li>
 
               <li class="nav-item">
@@ -63,12 +63,12 @@
  
       <!-- Hero section -->
 
-      <section id="hero-contact"  class="d-flex align-items-center text-center">
+      <section id="hero-gallery" class="d-flex align-items-center text-center">
 
         <div class="container">
           <div class="row">
             <div class="col-12">
-              <h1 class=" display-4 hero-text"> Contact Us</h1>
+              <h1 class=" display-4 hero-text"> Gallery</h1>
               
 
             </div>
@@ -80,76 +80,44 @@
     </header>
 
     <!-- Main -->
-    <main> 
+    <main id="gallery-background">
 
-       <section id="contact-section" class="section">
+      <div class="container section"> 
+        <div class="row">
+      <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active c-item">
+            <img src="assets/images/gym-5000169_1920.jpg" class="d-block w-100 c-img" alt="...">
+          </div>
+          <div class="carousel-item c-item">
+            <img src="assets/images/samuel-girven-fqMu99l8sqo-unsplash (1).jpg" class="d-block w-100 c-img" alt="...">
+          </div>
+          <div class="carousel-item c-item">
+            <img src="assets/images/meghan-holmes-buWcS7G1_28-unsplash (1).jpg" class="d-block w-100 c-img" alt="...">
+          </div>
 
-        <div class="container">
-
-            <div id="contact-background" class="row align-items-start card-border">
-
-                <div class="col-12 col-md-6 text-center">
-
-                    <h3 class="mb-5 mt-5"> Have any Questions?</h3>
-                    
-                   <a id="call-us-btn" class="btn btn-lg join-button col-12 col-md-6 mb-5" aria-label="Join now button">Call Us</a>
-
-                 <div> 
-
-                     <h3> Email:</h3> <br>
-                    <u> General</u> <br>
-                     Purehealth@gmail.com
-                     <br>
-                   <u> Personal trainer </u> <br>
-                     JohnDoePT@gmail.com <br>
-                     JaneDoePT@gmail.com
-
-
-                 </div>
-
-
-                </div>
-                   
-                <div class="col-12 col-md-6">
-                  <form>
-                    <h3 class="mb-5 mt-5"> Send Us A Message</h3>
-
-                    <div class="mb-3">
-                        
-                        <label for="name" class="form-label">Name</label>
-                                <input class="form-control" id="name" name="name" type="text" required>
-                            </div>
-
-                        <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                        <input type="email" class="form-control form-control-lg" id="exampleFormControlInput1" placeholder="name@example.com" required>
-
-                        <div class="col-12">
-                            <label for="phone" class="form-label">Phone number</label>
-                            <input class="form-control" id="phone" name="phone" type="number" required>
-                        </div>
-                      
-
-                      <div class="mb-3 col-">
-                        <label for="exampleFormControlTextarea1" class="form-label">Message</label>
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" required> </textarea>
-                      </div>
-
-                      <button id="submit-btn" type="submit" class="col-7 col-sm-4 btn btn-lg mb-5"> 
-                        Submit </button> 
-                    </form>
-                </div>
-
-
-                
-            </div>
-
+          <div class="carousel-item c-item">
+            <img src="assets/images/workout-6783020_1280.jpg" class="d-block w-100 c-img" alt="...">
+          </div>
 
 
         </div>
 
 
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+        </div>
+    </div>
 
-       </section>
+
+
 
 
     </main>
