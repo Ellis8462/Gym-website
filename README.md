@@ -46,6 +46,17 @@ As a result of this goal, we will provide a website that looks visually appealin
 
 Understanding what users want helps me build and structure the website around them.
 
+### Research
+
+**Reviewing other gym websites**
+
+I looked at other well known gym websites to see what features their site others and how their design is. I added features that I thought would be good for my website such as a hero image which mostly every website I came across had. All these websites were very eye catching when viewing them with amazing design.
+
+**Websites I visited**
+* [AnytimeFitness](https://www.anytimefitness.co.uk/) 
+* [Everlast gyms](https://www.everlastgyms.com/) 
+* [Pumpgyms](https://www.pumpgyms.com/watfordtolpitslane/) 
+
 ## 2. Design
 
 
