@@ -83,6 +83,18 @@ I used Balsamiq Wireframes to help structure the wireframes before and during th
 </details>
 
 
+
+
+### Website Structure
+
+The website is made to be a simple structure that enables users to easily navigate around. I wanted the user to find the information they wanted to with the least amount of clicks. 
+The most important information will be at the top of the page so that the user sees it first.
+
+**Pages**
+
+
+
+
 ### Colours
 
 For my colours, I wanted the main colours to be purple but decided that it would better and easier to see the text with a type of dark gray. For my secondary colour I chose a lighter gray which goes well with my main colour. Both colours makes it easier to see white text so that the text doesn't blend in with the background. For my accent colours I decided to make that a purple color which was orignally going to be my main colour. The purple makes interactive features stand out such as buttons and links. Hovering effect will be a a darker shade of purple with white text.
