@@ -151,7 +151,7 @@ a {
  background-color: var(--primary-color);
  height: 6rem;
     
-   
+ 
 }
 
 .navbar-toggler {
@@ -175,6 +175,7 @@ a {
 
     color: var(--accent-color);
     transition: 0.5s;
+    
     
 }
 
@@ -212,6 +213,7 @@ a {
     
     
 }
+
 
 
 /* Hero section */
@@ -261,7 +263,8 @@ a {
     border-radius:5px ;
     padding: 18px;
     font-weight: bold;
-    color: #ffffff;
+    color: #ffffff; 
+    text-shadow:1px 1px black;
 }
 
 
@@ -270,6 +273,7 @@ a {
     background-color:#5d186d ;
     color: white;
     transition: 0.8s;
+    
 
 }
 
@@ -374,6 +378,7 @@ background-color: var(--primary-color);
     background-color: var(--accent-color);
     color: #ffffff;
     border: 1px solid black;
+    text-shadow: 1px 1px black;
 }
 
 
@@ -645,6 +650,9 @@ footer {
 
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
+
+
+
   
     .card {
 

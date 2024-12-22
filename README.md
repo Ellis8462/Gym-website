@@ -171,6 +171,41 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 ### Home page
 
+#### Hero section
+
+- When the user first opens the homepage of the website they will see the hero section with a image of the gym. The image has a heading of "Welcome to Pure Health!" which greats the user to the gym website.
+
+- Underneath the hero text there is a "join Now" button. The button is made with CSS and has a hover effect when the user puts their cursor on the element.
+
+- The Join Now button sends the user to the gym's membership page.
+
+#### What we offer 
+
+- After the hero section, there is a next section on what the gym offers. The section contains 4 cards with a title and paragraph.
+
+- Each card is fully responsive and resizes on which device you are on.
+
+- The cards have a border that has a linear gradient making it look better visually.
+
+- Each card containes a image at the top with a svg design for the background of the rest of the card.
+
+- This shows users when they visit the website the benefits of what we offer.
+
+
+#### Location
+
+- Shows a embeded map from google maps of the location of the gym to help users find the gym.
+
+- The map is responsive on different devices.
+
+- Linked to the navbar so that if the user is on a different page they can click on it to send them to the hompage location section.
+
+
+#### Opening and closing times
+
+- Shows the user what days and times the gym is open.
+
+- The table adapts to what screen size you are on.
 
 ### Membership page
 
