@@ -550,6 +550,26 @@ padding-right: 10px;
     }
    
 
+/* Classes.htmml */
+
+ .classes-margin {
+
+        padding-bottom: 300px;
+ }
+
+
+ .row-padding {
+
+    min-height: 1400px;
+ }
+
+
+ /* Makes the cards have the same height */
+
+ .min-height-card {
+
+    min-height: 600px;
+ }
 
 
 
