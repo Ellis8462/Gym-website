@@ -227,9 +227,10 @@ a {
 
 /* Hero section */
 
+
 #hero {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplash\ \(1\).jpg) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdatedmobile.webp) no-repeat center center;
     height: 85vh;
     background-attachment: fixed;
     background-size: cover;
@@ -237,7 +238,6 @@ a {
     
     
 }
-
 
 #hero-membership {
 
@@ -681,7 +681,17 @@ footer {
 @media screen and (min-width: 992px) {
 
 
+ 
+    #hero {
 
+        background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated.webp) no-repeat center center;
+        height: 85vh;
+        background-attachment: fixed;
+        background-size: cover;
+       
+        
+        
+    }
   
     .card {
 
