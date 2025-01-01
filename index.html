@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PureHealth gym, the place to join and achieve your goals through fitness.">
     <title>PureHealth Gym</title>
 
     <!-- Bootstrap-->
@@ -10,10 +11,16 @@
 
     <!-- CSS stylesheet -->
      <link href="assets/style.css" rel="stylesheet"> 
+
+     <!-- FontAwesome -->
+     <script src="https://kit.fontawesome.com/98a92d70f6.js" crossorigin="anonymous"></script>
+
+     <link rel="preload" as="image" href="assets/images/samuel-girven-fqMu99l8sqo-unsplashupdatedmobile.webp">
     
-      <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" />
-     
 </head>
+
+
+
 <body class="d-flex flex-column min-vh-100">
     
 
@@ -24,7 +31,7 @@
 
         <div  class="container">
 
-          <a class="navbar-brand" href="#">Pure <i id="dumbbell" class="fa-solid fa-dumbbell"></i> <br> Health</a>
+          <a class="navbar-brand" href="#">Pure  <br> Health</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -56,7 +63,6 @@
               </li>
 
                 </ul>
-              </li>
           </div>
         </div>
       </nav>
@@ -67,7 +73,7 @@
  
       <!-- Hero section -->
 
-      <section id="hero" class="d-flex align-items-center text-center">
+      <section id="hero" class="d-flex align-items-center text-center container-fluid">
 
         <div class="container">
           <div class="row">
@@ -103,11 +109,17 @@
           <!-- Personal training card-->
           <div class="col-12 col-md-5 col-lg-4 col-xl-4 col-xxl-2 card-border">
             <div class="card"> 
-              <img class="card-img-top" src="assets/images/pexels-pixabay-414029updated.webp" alt="personal trainer training a client">
+              <img class="card-img-top" src="assets/images/pexels-pixabay-414029updated.webp" loading="lazy" alt="personal trainer training a client">
               <div class="card-body">
                   <h3 class="card-title display-6">Personal Training</h3>
                   <p class="card-text">  We offer personalised training programes that help you reach your fitness goals! </p>
-                
+                 
+                 
+                  <div class="col-12 text-center"> 
+                    
+                    <a href="Contact.html" class="offer-button btn pb-2" aria-label="Join now button (Sends you to the membership page)" >Contact Us</a>
+                  
+                  </div>
               </div>
 
             </div>
@@ -116,10 +128,16 @@
            <!-- Memberships card -->
           <div class="margin-bottom mt-5 col-12 col-md-5 col-xl-4 col-lg-4 col-xxl-3 card-border">
             <div class="card"> 
-              <img class="card-img-top" src="assets/images/pexels-victorfreitas-703016updated.webp" alt="People in a gym">
+              <img class="card-img-top" src="assets/images/pexels-victorfreitas-703016updated.webp" loading="lazy" alt="People in a gym">
               <div class="card-body">
                   <h3 class="card-title display-6"> Variety of memberships</h3>
                   <p class="card-text">  We offer different membership options! </p>
+                 
+                  <div class="col-12 text-center"> 
+                    
+                    <a  href="membership.html" class="offer-button btn pb-2" aria-label="Join now button (Sends you to the membership page)" >Membership</a>
+                  
+                  </div>
                 
               </div>
 
@@ -130,11 +148,16 @@
           <!-- Facility card -->
           <div class="margin-bottom mt-5 col-12 col-md-5 col-lg-4 col-xl-4 col-xxl-3 card-border">
             <div class="card"> 
-              <img class="card-img-top" src="assets/images/fitness-4999754_1280updated.webp" alt="Empty gym with treadmills and crosstrainers">
+              <img class="card-img-top" src="assets/images/fitness-4999754_1280updated.webp" loading="lazy" alt="Empty gym with treadmills and crosstrainers">
               <div class="card-body">
                   <h3 class="card-title display-6"> Amazing Facility </h3>
                   <p class="card-text"> We have an amazing facility with lots of space as well as the best equipment! </p>
-                
+
+                  <div class="col-12 text-center"> 
+                    
+                    <a  href="gallery.html" class="offer-button btn pb-2" aria-label="Join now button (Sends you to the membership page)" >Gallery</a>
+                  
+                  </div>
               </div>
 
             </div>
@@ -144,10 +167,17 @@
           <!-- Classes card -->
           <div class="margin-bottom mt-5 col-12 col-md-5 col-lg-4 col-xl-4 col-xxl-2  card-border">
             <div class="card"> 
-              <img class="card-img-top" src="assets/images/workout-6783020_1280updated.webp" alt="People in a gym">
+              <img class="card-img-top" src="assets/images/workout-6783020_1280updated.webp" loading="lazy" alt="People in a gym">
               <div class="card-body">
                   <h3 class="card-title display-6"> Classes </h3>
-                  <p class="card-text"> Our personal trainers offer a variety of different classes. </p>
+                  <p class="card-text pb-4"> Our personal trainers offer a variety of different classes.  </p>
+                
+                  
+                  <div class="col-12 text-center"> 
+                    
+                    <a  href="classes.html" class="offer-button btn pb-2" aria-label="Join now button (Sends you to the membership page)" > Classes </a>
+                  
+                  </div>
                 
               </div>
 
@@ -168,7 +198,7 @@
         <p class="text-center"> Address: London SW1A 0AA </p>
         <div class="container text-center mb-5">
           <!-- Google map -->
-        <iframe id="map" aria-hidden="true" title="google-maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28095.263802491027!2d-0.1223652933626501!3d51.50782304203347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604c38c8cd1d9%3A0xb78f2474b9a45aa9!2sBig%20Ben!5e0!3m2!1sen!2suk!4v1733330081035!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" loading="lazy" rel="noopener"></iframe>
+        <iframe id="map" aria-hidden="true" title="google-maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28095.263802491027!2d-0.1223652933626501!3d51.50782304203347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604c38c8cd1d9%3A0xb78f2474b9a45aa9!2sBig%20Ben!5e0!3m2!1sen!2suk!4v1733330081035!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" rel="noopener"></iframe>
        </div>
       </section>
 

@@ -69,13 +69,13 @@ I used Balsamiq Wireframes to help structure the wireframes before and during th
 
 ![Mobile](https://github.com/user-attachments/assets/517bd2da-5847-40cf-b0cf-1077d26bde47)
 </details>
-
+<br>
 <details>
 <summary> Tablet </summary>
 
 ![Tablet](https://github.com/user-attachments/assets/5717a87e-83ec-4a65-bcad-4c9ea58b46db)
 </details>
-
+<br>
 <details>
 <summary> Desktop </summary>
 
@@ -90,7 +90,7 @@ I used Balsamiq Wireframes to help structure the wireframes before and during th
 The website is made to be a simple structure that enables users to easily navigate around. I wanted the user to find the information they wanted to with the least amount of clicks. 
 The most important information will be at the top of the page so that the user sees it first.
 
-**Pages**
+
 
 
 
@@ -99,8 +99,7 @@ The most important information will be at the top of the page so that the user s
 
 For my colours, I wanted the main colours to be purple but decided that it would better and easier to see the text with a type of dark gray. For my secondary colour I chose a lighter gray which goes well with my main colour. Both colours makes it easier to see white text so that the text doesn't blend in with the background. For my accent colours I decided to make that a purple color which was orignally going to be my main colour. The purple makes interactive features stand out such as buttons and links. Hovering effect will be a a darker shade of purple with white text.
 
-![primary-color](https://github.com/user-attachments/assets/2d27955f-9de5-49e3-bda3-b04557cc494a)![secondary-color](https://github.com/user-attachments/assets/d2559f75-1315-438a-a0af-f9ce80a8d005)![accent-colors](https://github.com/user-attachments/assets/3a9e2776-fb95-4406-80c0-b5c31dbb5aad)
-
+![primary-color](https://github.com/user-attachments/assets/2d27955f-9de5-49e3-bda3-b04557cc494a)![secondary-color](https://github.com/user-attachments/assets/d2559f75-1315-438a-a0af-f9ce80a8d005) ![Website-Screenshots/Screenshot 2024-12-31 221330.png)](<assets/Website-Screenshots/Screenshot 2024-12-31 221330.png>)
 ### Fonts
 
 For my fonts I imported fonts from Google fonts. I used the font Bungee for headings because this font makes it stand out and clear to read. For the body text I decided to use Markazi and for navbar links I used system-ui, -apple-system.
@@ -145,7 +144,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - Logo is placed on the far left of the navbar.
 
 
-#### Hero Section
+#### **Hero Section**
 
 - Each hero on each devices will have a linear gradient so that the text stands out from the background.
 - Hero section of every page has a h1 title of what the page is about.
@@ -154,12 +153,28 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - Each page contains a different hero image.
 - Hero image and text is responsive on different devices.
 
-**Mobile**
+**Hero Section screenshots** 
 
-**Tablet**
+<details>
+<summary> Mobile Screenshot </summary>
 
-**Desktop**
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 013648.png">
 
+</details>
+<br>
+<details>
+<summary> Tablet Screenshot </summary>
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01-012900.png">
+
+</details>
+<br>
+
+<details>
+<summary> Desktop Screenshot </summary>
+
+<img src="assets/Website-Screenshots/image.png">
+</details>
 
 #### Footer
 
@@ -169,9 +184,25 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - The logo's of the social media links have a hovering effect to show that they can be pressed on.
 - The footer is responsive on different devices.
 
+<details>
+<summary> Footer Screenshot </summary>
+
+**Mobile** <br>
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 045821.png">
+
+**Tablet** <br>
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 051020.png">
+
+**Desktop** <br>
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 051238.png">
+
+</details>
+
+
+
 ### Home page
 
-#### Hero section
+#### **Hero section**
 
 - When the user first opens the homepage of the website they will see the hero section with a image of the gym. The image has a heading of "Welcome to Pure Health!" which greats the user to the gym website.
 
@@ -179,7 +210,17 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - The Join Now button sends the user to the gym's membership page.
 
-#### What we offer 
+
+
+<details>
+<summary> Hero Screenshot </summary>
+
+![alt text](assets/Website-Screenshots/image.png)
+</details>
+
+
+
+#### **What we offer section**
 
 - After the hero section, there is a next section on what the gym offers. The section contains 4 cards with a title and paragraph.
 
@@ -191,6 +232,45 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - This shows users when they visit the website the benefits of what we offer.
 
+- Each card has a button that links to other pages of the website with hover effect.
+
+<br>
+<details>
+<summary> Mobile screenshots</summary>
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 020610.png">
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 021515.png">
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 022051.png">
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 022353.png">
+
+</details>
+
+<br>
+
+<details>
+<summary> Tablet screenshots</summary>
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 022648.png">
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 022715.png">
+
+
+
+</details>
+
+<br>
+
+<details>
+<summary> Desktop screenshots </summary>
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-01 024116.jpg">
+
+
+
+</details>
 
 #### Location
 
@@ -229,6 +309,10 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 ### Accessibility
 
 ### Performance using Lighthouse
+
+
+
+
 
 ### Testing on different devices
 
