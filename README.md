@@ -90,6 +90,18 @@ I used Balsamiq Wireframes to help structure the wireframes before and during th
 The website is made to be a simple structure that enables users to easily navigate around. I wanted the user to find the information they wanted to with the least amount of clicks. 
 The most important information will be at the top of the page so that the user sees it first.
 
+The site has a structure of 5 pages and 2 sub pages:
+
+
+- Homepage - This is the first page the users will see and the page is about what the gym offers, location with interative map and gym opening times.
+
+- Membership - This webpage can be clicked from the navbar link or membership card on the homepage. This page gives information on the membership types.
+
+- Contact - This page can be clicked from the navbar link or personal training card on the homepage. This page allows the user to contact the gym with email or phone.
+
+- Gallery - This page can be clicked from the navbar link or facility card on the homepage. This page is where images of the gym are stored.
+
+- Classes - This page can be clicked on from the navbar or the classes card on the homepage. Gives the user more information on classes.
 
 
 
