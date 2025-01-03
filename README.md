@@ -195,6 +195,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - The footer has general contact information such as the gym's email and phone number.
 - The logo's of the social media links have a hovering effect to show that they can be pressed on.
 - The footer is responsive on different devices.
+- Contact information has a anchor link.
 
 <details>
 <summary> Footer Screenshot </summary>
@@ -236,7 +237,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - After the hero section, there is a next section on what the gym offers. The section contains 4 cards with a title and paragraph.
 
-- Each card is fully responsive and resizes on which device you are on.
+- Each card is fully responsive and resizes on which device you are on. Mobile has one column throughout the page, tablet has two columns and desktop has 2 or 4 columns.
 
 - The cards have a border that has a linear gradient making it look better visually.
 
@@ -300,6 +301,17 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - The table adapts to what screen size you are on.
 
 ### Membership page
+
+
+- Information of the membership types with 4 options.
+
+- Each membership option has a join now button which has the same design throughout the website.
+
+- Each card contains a SVG image in the background to give it texture.
+
+- Responsive on all devices.
+
+- Includes FontAwesome icons to make it look better visually.
 
 
 ### Contact page
