@@ -18,7 +18,7 @@
     --primary-color-font:#ECE8E8;
     --accent-color:#8f1ea8;
     --primary-color: #0e0d0d;
-    --secondary-color:#2E2D2E;
+    --secondary-color:#2E2D2E; 
         
 }
 
@@ -75,6 +75,7 @@ h3 {
 a {
 
     text-decoration: none;
+    color: white;
     
 }
 
@@ -82,10 +83,15 @@ a {
 
 #hero {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdatedmobile.webp) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated800x533.webp) no-repeat center center;
     height: 70vh;
-    background-attachment: fixed;
+    background-attachment:fixed;
     background-size: cover;
+    padding: 0;
+   
+    
+    
+  
     
 }
   
@@ -95,6 +101,7 @@ a {
 .navbar {
 
     background-color: var(--secondary-color);
+    
   
 }
 
@@ -103,15 +110,22 @@ a {
     font-family: "Shrikhand", serif;
     font-size: 1.5rem;
     color:rgb(214, 210, 210);
-    font-style: oblique;
-    text-shadow: 3px 3px black;
+    background: linear-gradient(to right, #d53a9d,  #be388d, #9e57ce,   #8257ce);
+    background-clip: text;
+    -webkit-background-clip: text;   
+    -webkit-text-fill-color: transparent;
+ 
     
+    
+
 }
+
 
 /* Found this on chrome dev tools which made the brand logo change colour */
 .navbar-brand:focus, .navbar-brand:hover {
     color: #ffffff;
-    text-shadow: 3px 3px black;
+  
+   
 }
 
 /* Fixes boostrap active color */
@@ -120,20 +134,6 @@ a {
     color: var(--primary-color-font);
     font-size: 16px;
 } 
-
-
-.navbar-brand:hover {
-    color: rgb(0, 0, 0);
-    text-shadow: 1px 1px var(--accent-color);
-}
-
- .navbar-brand:active {
-
-    color: rgb(0, 0, 0);
-}
-
-
-
 
  #navbar {
 
@@ -361,6 +361,7 @@ a {
    min-width: 120px;
    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
    transition: transform 0.3s ease, background-color 0.3s ease;
+   border-radius: 10px;
 }
 
 .offer-button:hover {
@@ -370,6 +371,7 @@ a {
     transition: 0.8s;
     transform: scale(1.1); 
 }
+
 
 /* Fixes issue with btn background */
 .btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus {
@@ -629,7 +631,10 @@ font-size: 12px;
 }
 
 
+
 /* Media queries */
+
+
 
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
@@ -644,6 +649,7 @@ font-size: 12px;
     #hero {
 
         height: 85vh;
+        min-height: 700px;
     }
 
     /* What we offer section */
@@ -687,6 +693,7 @@ font-size: 12px;
 
 
 
+
 /* Contact.html */ 
 
 
@@ -705,10 +712,13 @@ font-size: 12px;
 
     #hero {
 
-        background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated.webp) no-repeat center center;
-        height: 85vh;
-        background-attachment: fixed;
-        background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated.webp) no-repeat center center;
+    height: 85vh;
+    background-attachment:fixed;
+    background-size: cover;
+   
+    
+
     }
   
     .card {
@@ -751,7 +761,8 @@ font-size: 12px;
         padding-right:15px;
       
       }
-    
+
+
 
       /* index table */
 
@@ -777,6 +788,12 @@ font-size: 12px;
 /* Extra large devices (laptops & desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
 
+
+
+    #hero {
+            min-height: 80vh;
+
+    }
     /* what we have to offer section */
 
     .card-title {
