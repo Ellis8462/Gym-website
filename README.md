@@ -20,7 +20,7 @@ Different users will be looking for the same or different goals when visiting th
 
 #### **Site owner goals** ####
 
-Our goal is to promote health and fitness and help people improve their physical and mental health by helping users join the gym for the locals. 
+The goal is to promote health and fitness and help people improve their physical and mental health by helping users join the gym for the locals. 
 
 As a result of this goal, we will provide a website that looks visually appealing and easy navigation to catch the users eye. Doing this will help the user to understand the benefits of joining the gym and learning information about it.
 
@@ -245,19 +245,21 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - This shows users when they visit the website the benefits of what we offer.
 
-- Each card has a button that links to other pages of the website with hover effect.
+- Each card has a button that links to other pages of the website with hover effect. The button get's larger when hovering over them.
+
+- Each button has a active effect which when clicking on the background colour of the button will be a darker shade.
 
 <br>
 <details>
 <summary> Mobile screenshots</summary>
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 020610.png">
+<img src="assets/Website-Screenshots/Offer1.png">
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 021515.png">
+<img src="assets/Website-Screenshots/Offer2.png">
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 022051.png">
+<img src="assets/Website-Screenshots/Offer3.png">
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 022353.png">
+<img src="assets/Website-Screenshots/Offer4.png">
 
 </details>
 
@@ -266,9 +268,9 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <details>
 <summary> Tablet screenshots</summary>
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 022648.png">
+<img src="assets/Website-Screenshots/Screenshot 2025-01-07 180756.png">
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 022715.png">
+<img src="assets/Website-Screenshots/Screenshot 2025-01-07 180847.png">
 
 
 
@@ -279,13 +281,13 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <details>
 <summary> Desktop screenshots </summary>
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 024116.jpg">
+<img src="assets/Website-Screenshots/Screenshot 2025-01-07 182200.png">
 
 
 
 </details>
 
-#### Location
+#### Location 
 
 - Shows a embeded map from google maps of the location of the gym to help users find the gym.
 
@@ -313,12 +315,45 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - Includes FontAwesome icons to make it look better visually.
 
+- Responsive on different screen size. Mobile users will have the classes cards in one column and four rows. Tablets and computers will have two columns and 2 rows.
 
 ### Contact page
 
+- Form that users can send messages to the gym to enquire.
+
+- Similar button styles found throughout the website.
+
+- Includes a success page so the user knows that their form has been sent.
+
+- Emails and phonenumber are linked.
+
+- The elements that are part of the form are required to be completed before the user can submit.
+
 ### Gallery page
 
+
+### Classes page 
+
+- As a similar layout to the membership page to give the user familiarity when navigating around the website. 
+
+- Shows the user information on what classes the gym offers and the days they are on.
+
+- Includes icons from fontawesome.
+
+- Responsive on different screen size. Mobile users will have the classes cards in one column and four rows. Tablets and computers will have two columns and 2 rows.
+
+
 ### Other pages
+
+#### Success page
+
+- Page can be only accessed through the contact page submission form.
+
+- Helps the user know the form has been sent through successfully.
+
+- Includes the footer and navbar so that the user can navigate to a different page.
+
+- Has a button in the middle of the page that sends the user to the homepage when pressed on.
 
 
 ### Future features
