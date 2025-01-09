@@ -187,7 +187,7 @@ a {
 
 #hero-membership {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/meghan-holmes-buWcS7G1_28-unsplash-.webp) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/heromembership.webp) no-repeat center center;
     height: 40vh;
     min-height: 300px;
     background-attachment: fixed;
@@ -313,6 +313,7 @@ a {
    padding-left: 0;
    padding-right: 0;
    border-image-source: linear-gradient(to right, #743ad5, #d53a9d); 
+   
 }
 
 

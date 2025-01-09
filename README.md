@@ -98,6 +98,7 @@ The site has a structure of 5 pages and 2 sub pages:
 - Membership - This webpage can be clicked from the navbar link or membership card on the homepage. This page gives information on the membership types.
 
 - Contact - This page can be clicked from the navbar link or personal training card on the homepage. This page allows the user to contact the gym with email or phone.
+    - Success page - This page is for the contact page when you complete the form. The page tells the user that their form has been sent through.
 
 - Gallery - This page can be clicked from the navbar link or facility card on the homepage. This page is where images of the gym are stored.
 
@@ -128,17 +129,26 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 ### Tools used in the project
 
-* [Bootstrap](https://getbootstrap.com/) - I used Bootstrap to make responsive layouts which help on adapt to different screen sizes.
+* [Bootstrap](https://getbootstrap.com/) 
+  - I used Bootstrap to make responsive layouts which help on adapt to different screen sizes.
 
-* [Google Fonts](https://fonts.google.com/) - Google fonts helps me to customise texts making them suitable for my website. They provide me with more options for font customization.
+* [Google Fonts](https://fonts.google.com/) 
+  - Google fonts helps me to customise texts making them suitable for my website. They provide me with more options for font customization.
+  
+* [Balsamiq Wireframes](https://balsamiq.com/) 
+  - Used to create wireframes to help plan the structure of my website.
 
-* [Balsamiq Wireframes](https://balsamiq.com/) - Used to create wireframes to help plan the structure of my website.
+* [GitHub](https://github.com/) 
+   - I use GitHub to store source code as well as keeping track on tasks.
 
-* [GitHub](https://github.com/) - I use GitHub to store source code as well as keeping track on tasks.
+* [Git](https://git-scm.com/) 
+   - Git is a software that allows me to send my code to GitHub to store.
 
-* [Git](https://git-scm.com/) - Git is a software that allows me to send my code to GitHub to store.
+* [FontAwesome](https://fontawesome.com/)
+   - I used this for icons to make the website more visually appealing.
 
-* [FontAwesome](https://fontawesome.com/) - I used this for icons to make the website more visually appealing.
+- [GitPod](https://www.gitpod.io/)
+   - Used this to create the code for this project.
 
 
 ## 4. Features
@@ -160,7 +170,8 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - Each hero on each devices will have a linear gradient so that the text stands out from the background.
 - Hero section of every page has a h1 title of what the page is about.
-- Home page has a button that links to the membership page with the words containing "join Now" which has a hover effect.
+- Home page has a button that links to the membership page with the words containing "join Now" which has a hover effect. The hover effect gets slightly larger when the user 
+  hovers over it. 
 - Home page hero image has a viewport height of 85vh and other pages have a hero image size of 40vh.
 - Each page contains a different hero image.
 - Hero image and text is responsive on different devices.
@@ -225,10 +236,16 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 
 
+<br>
+
 <details>
 <summary> Hero Screenshot </summary>
 
-![alt text](assets/Website-Screenshots/image.png)
+![Homepage hero image](assets/Website-Screenshots/image.png)
+
+![Homepage hero image](assets/images/Herobuttonhover.gif)
+           
+
 </details>
 
 
@@ -248,6 +265,17 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - Each card has a button that links to other pages of the website with hover effect. The button get's larger when hovering over them.
 
 - Each button has a active effect which when clicking on the background colour of the button will be a darker shade.
+
+<br>
+<details>
+<summary> Offer section button hover </summary>
+
+![Homepage hero image](assets/Website-Screenshots/buttonhover.gif)
+
+This button is on every card on the offer section. It gets slightly bigger when hovering over the element and turns a darker shade.
+
+</details>
+
 
 <br>
 <details>
@@ -287,7 +315,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 </details>
 
-#### Location 
+#### **Location**
 
 - Shows a embeded map from google maps of the location of the gym to help users find the gym.
 
@@ -296,13 +324,42 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - Linked to the navbar so that if the user is on a different page they can click on it to send them to the hompage location section.
 
 
-#### Opening and closing times
+#### **Opening and closing times**
 
 - Shows the user what days and times the gym is open.
 
 - The table adapts to what screen size you are on.
 
-### Membership page
+<br>
+
+<details>
+<summary> Screenshot Desktop </summary>
+
+<img src="assets/Website-Screenshots/locationdesktop.png"> 
+
+
+
+</details>
+
+<br>
+<details>
+<summary> Screenshot Tablet </summary>
+
+<img src="assets/Website-Screenshots/locationtablet.png"> 
+
+</details>
+
+<br>
+<details>
+<summary> Screenshot Mobile </summary>
+
+<img src="assets/Website-Screenshots/locationmobile1.png">
+
+<img src="assets/Website-Screenshots/timesmobile.png">
+
+</details>
+
+### **Membership page**
 
 
 - Information of the membership types with 4 options.
@@ -317,9 +374,56 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - Responsive on different screen size. Mobile users will have the classes cards in one column and four rows. Tablets and computers will have two columns and 2 rows.
 
+#### **Screenshots**
+
+<details> 
+<summary> Hero image   </summary>
+
+![Membership page hero image](assets/Website-Screenshots/heromembership.png)
+
+</details>
+
+<br>
+<details>
+<summary> Membership Mobile</summary>
 
 
-### Contact page
+
+
+<img src="assets/Website-Screenshots/membership1.png"> 
+
+<img src="assets/Website-Screenshots/membership2.png"> 
+
+<img src="assets/Website-Screenshots/membership3.png"> 
+
+<img src="assets/Website-Screenshots/membership4.png"> 
+
+</details>
+
+<br>
+
+<details>
+<summary> Membership Tablet </summary>
+
+<img src="assets/Website-Screenshots/membership5.png"> 
+
+<img src="assets/Website-Screenshots/membership6.png"> 
+
+
+
+</details>
+
+<br>
+
+<details>
+<summary> Membership Desktop </summary>
+
+<img src="assets/Website-Screenshots/membership7.png"> 
+
+
+</details>
+
+### **Contact page**
 
 - Form that users can send messages to the gym to enquire.
 
@@ -331,13 +435,57 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - The elements that are part of the form are required to be completed before the user can submit.
 
+#### **Screenshots**
+
+<details>
+<summary> Hero image </summary>
+
+<img src="assets/Website-Screenshots/herocontact.png">
+
+</details>
+
+<br>  
+
+<details>
+<summary> Screenshot Mobile </summary>
+
+<img src="assets/Website-Screenshots/contactmobile1.png">
+<img src="assets/Website-Screenshots/contactmobile2 (2).png">
+
+</details>
+<br>
+
+<details>
+<summary> Screenshot Tablet </summary>
+
+<img src="assets/Website-Screenshots/contacttablet.png">
 
 
-### Gallery page
+</details>
+
+<br>
+
+<details>
+<summary> Screenshot Desktop </summary>
+
+<img src="assets/Website-Screenshots/contactdesktop.png">
+
+
+</details>
+
+
+### **Gallery page**
+
+- Has a image carousel that the user can control with on screen arrow keys.
+
+- Carousel switches images on it's own.
+
+- This page will give the user the option to view images of the gym and people training in the gym.
 
 
 
-### Classes page 
+
+### **Classes page**
 
 - As a similar layout to the membership page to give the user familiarity when navigating around the website. 
 
@@ -348,12 +496,32 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - Responsive on different screen size. Mobile users will have the classes cards in one column and four rows. Tablets and computers will have two columns and 2 rows.
 
 
+**Screenshots**
 
-### Other pages
+<details>
+<summary> Screenshot Mobile </summary>
+
+<img src="assets/Website-Screenshots/classes1.png">
+<img src="assets/Website-Screenshots/classes2.png">
+<img src="assets/Website-Screenshots/classes3.png">
+<img src="assets/Website-Screenshots/classes4.png">
+</details>
+
+<br>
+
+<details>
+<summary> Screenshot Tablet </summary>
+
+<img src="assets/Website-Screenshots/classestab1.png">
+<img src="assets/Website-Screenshots/classestab2.png">
+</details>
+
+
+### **Other pages**
 
 
 
-#### Success page
+#### **Success page**
 
 - Page can be only accessed through the contact page submission form.
 
