@@ -253,11 +253,11 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <details>
 <summary> Mobile screenshots</summary>
 
-<img src="assets/Website-Screenshots/Offer1.png">
+<img src="assets/Website-Screenshots/Offer1.png"> <br>
 
-<img src="assets/Website-Screenshots/Offer2.png">
+<img src="assets/Website-Screenshots/Offer2.png"> <br>
 
-<img src="assets/Website-Screenshots/Offer3.png">
+<img src="assets/Website-Screenshots/Offer3.png"> <br>
 
 <img src="assets/Website-Screenshots/Offer4.png">
 
@@ -268,7 +268,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <details>
 <summary> Tablet screenshots</summary>
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-07 180756.png">
+<img src="assets/Website-Screenshots/Screenshot 2025-01-07 180756.png"> <br>
 
 <img src="assets/Website-Screenshots/Screenshot 2025-01-07 180847.png">
 
@@ -317,6 +317,8 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - Responsive on different screen size. Mobile users will have the classes cards in one column and four rows. Tablets and computers will have two columns and 2 rows.
 
+
+
 ### Contact page
 
 - Form that users can send messages to the gym to enquire.
@@ -329,7 +331,10 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - The elements that are part of the form are required to be completed before the user can submit.
 
+
+
 ### Gallery page
+
 
 
 ### Classes page 
@@ -343,7 +348,10 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - Responsive on different screen size. Mobile users will have the classes cards in one column and four rows. Tablets and computers will have two columns and 2 rows.
 
 
+
 ### Other pages
+
+
 
 #### Success page
 
@@ -356,16 +364,26 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - Has a button in the middle of the page that sends the user to the homepage when pressed on.
 
 
+
 ### Future features
 
+
+
 ## 5. Testing & Bugs
+
+
 
 ### HTML validation
 
 
+
 ### CSS validation
 
+
+
 ### Accessibility
+
+
 
 ### Performance using Lighthouse
 
@@ -375,7 +393,10 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 ### Testing on different devices
 
+
+
 ### Bugs during development and fixes
+
 
 **Hero text**
 
@@ -392,6 +413,7 @@ i wanted the cards on the What we offer section to all fit on the same row but t
 
 
 ## Deployment
+
 
 
 ### Github
