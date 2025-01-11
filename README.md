@@ -284,6 +284,8 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - Each button has a active effect which when clicking on the background colour of the button will be a darker shade.
 
+- Screens 1400px and above will have a hover transition effect on the cards making them scale 1.1 larger when the cursor is on it. The cards will ease back to its normal size when the cursor moves away from it.
+
 
 <details>
 <summary> Screenshots </summary>
@@ -321,11 +323,14 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 
 
-
-
 ### Desktop screenshots ###
 
 <img src="assets/Website-Screenshots/Screenshot 2025-01-07 182200.png">
+
+
+### Desktop hover effect ###
+
+<img src="assets/Website-Screenshots/offersectionhover.gif">
 
 
 </details>
@@ -539,6 +544,15 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 - Has a button in the middle of the page that sends the user to the homepage when pressed on.
 
+<details>
+<summary> Screenshot </summary>
+
+<img src="assets/Website-Screenshots/successpage.png">
+
+
+</details>
+
+
 
 
 ### Future features
@@ -551,10 +565,72 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 ### HTML validation
 
+To test my html code validation I used the [W3C HTML Validator](https://validator.w3.org/)  by direct input. This let's me see what errors I have such as unwanted elements.
+
+<details>
+<summary> index.html </summary>
+
+Removed the extra div
+
+<img src="assets/Website-Screenshots/indexvalidator.png">
+
+
+</details>
+
+<details>
+<summary> membership.html </summary>
+
+
+There were errors on my cards and fixed this by removing the div elements for my prices and removing the h3 from the prices which were making it have a child element. I fixed this by putting the h3 element closing tag before the start of the prices. I also added a h4 to the prices and tested the code again and came back with no errors.
+
+<img src="assets/Website-Screenshots/membershipvalidator.png">
+
+Fix
+
+<img src="assets/Website-Screenshots/pricessemanticfix.png">
+
+</details>
+
+<details>
+<summary> contact.html </summary>
+
+
+Couple of minor issues which I removed when testing the contact page in validator.
+
+<img src="assets/Website-Screenshots/contactvalidator.png">
+
+
+</details>
+
+
+<details>
+<summary> gallery.html  </summary>
+
+<img src="assets/Website-Screenshots/galleryvalidator.png">
+
+</details>
+
+
+
+<details>
+<summary> classes.html  </summary>
+
+<img src="assets/Website-Screenshots/classesvalidator.png">
+
+</details>
+
 
 
 ### CSS validation
 
+I copied my style.css code into the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and this will show me if I have any coding errors in my css file.
+
+<details>
+<summary> style.css </summary>
+
+<img src="assets/Website-Screenshots/cssvalidator.png">
+
+</details>
 
 
 ### Accessibility
@@ -594,6 +670,10 @@ This was a error that showed up on the contact page and explained that underline
 
 This error didn't show up on the Wave accessibilty evaluation tool but I seen an error on my ARIA label tags for my "Call Us" button on the membership page which has the wrong text in it and was the same ARIA label as the "Join Now" hero button. I fixed this by going into html contact page and changed it to match the action of the button.
 
+
+**Contrast** 
+
+I had some contrast errors with the purple on the buttons. I fixed this by changing the purple colour to a slightly darker shade of purple.
 
 ### Performance using Lighthouse
 

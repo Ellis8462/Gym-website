@@ -307,9 +307,10 @@ a {
    padding-left: 0;
    padding-right: 0;
    border-image-source: linear-gradient(to right, #743ad5, #d53a9d); 
+ 
+  
    
 }
-
 
 
 
@@ -859,6 +860,21 @@ font-size: 12px;
         justify-content:space-evenly;
         
     }  
-}
+
+    /* What we offer section */
+
+    .card-transition {
+
+       transition: 1s ease;
+      
+       
+    }
+    
+    .card-transition:hover {
+    transform: scale(1.1); 
+    transition: 1s ease;
+    }
+
+ }
 
 
