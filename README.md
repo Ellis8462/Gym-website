@@ -125,7 +125,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 * HTML - The main language I use for this website is HTML which is the foundation and the structure of the website.
 
-* CSS - This language I also mainly used to style my html elements to make them look more visually appealing to users that navigate my website.
+* CSS - This language I also mainly used to style my html elements to make them look more visually appealing to users that navigate the website.
 
 ### Tools used in the project
 
@@ -150,6 +150,12 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - [GitPod](https://www.gitpod.io/)
    - Used this to create the code for this project.
 
+- [Screentogif](https://www.screentogif.com/)
+   - Used to record hover effects on my website and upload it to my README file.
+
+- [Wave accessibilty evaluation tool](https://wave.webaim.org/)
+   - I used this to see if I can make any improvements for accessibilty for users.
+
 
 ## 4. Features
 
@@ -158,54 +164,65 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 #### **Nav bar**
 
 - Navbar has the same design for each page to make it simple and familar.
+
 - The Navbar remains in a fixed position at the top of all pages so the user can navigate without having to scoll or the way back to the top.
+
 - The Navbar is fully responsive when testing it in chrome dev tools.
+
 - The page the user is on will be shown on the navbar and will have a higher font weight compared to the other pages.
-- When hovering over other nav links, it will show a colour of purple with a transition of 0.8s.
+
+- When hovering over other nav links, it will show a colour of purple with a transition of 0.8s and a slight shadow on the text.
+
 - On phones and tablets the navbar links can be accessed when you press the toggle button on the far right side of the navbar.
+
 - Logo is placed on the far left of the navbar.
 
 
 #### **Hero Section**
 
 - Each hero on each devices will have a linear gradient so that the text stands out from the background.
+
 - Hero section of every page has a h1 title of what the page is about.
+
 - Home page has a button that links to the membership page with the words containing "join Now" which has a hover effect. The hover effect gets slightly larger when the user 
   hovers over it. 
-- Home page hero image has a viewport height of 85vh and other pages have a hero image size of 40vh.
+
+- Home page hero image has more height on homepage and a smaller height on other pages. 
+
 - Each page contains a different hero image.
+
 - Hero image and text is responsive on different devices.
 
-**Hero Section screenshots** 
 
 <details>
-<summary> Mobile Screenshot </summary>
+<summary> Hero Home Screenshots </summary>
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 013648.png">
+### Mobile Screenshot ###
+ <img src="assets/Website-Screenshots/Screenshot 2025-01-01 013648.png">
 
-</details>
-<br>
-<details>
-<summary> Tablet Screenshot </summary>
+
+### Tablet Screenshot ###
 
 <img src="assets/Website-Screenshots/Screenshot 2025-01-01-012900.png">
 
-</details>
-<br>
-
-<details>
-<summary> Desktop Screenshot </summary>
+ ### Desktop Screenshot ###
 
 <img src="assets/Website-Screenshots/image.png">
+
 </details>
 
 #### Footer
 
 - The footer appears on all pages on the site.
+
 - The footer contains links to the gym's social media pages.
+
 - The footer has general contact information such as the gym's email and phone number.
+
 - The logo's of the social media links have a hovering effect to show that they can be pressed on.
+
 - The footer is responsive on different devices.
+
 - Contact information has a anchor link.
 
 <details>
@@ -222,7 +239,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 </details>
 
-
+<br>
 
 ### Home page
 
@@ -230,19 +247,20 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - When the user first opens the homepage of the website they will see the hero section with a image of the gym. The image has a heading of "Welcome to Pure Health!" which greats the user to the gym website.
 
+- The hero image is responsive on different devices with different image sizes.
+
 - Underneath the hero text there is a "join Now" button. The button is made with CSS and has a hover effect when the user puts their cursor on the element.
 
 - The Join Now button sends the user to the gym's membership page.
 
 
-
-<br>
-
 <details>
-<summary> Hero Screenshot </summary>
+<summary>Screenshot </summary>
 
+### Hero ###
 ![Homepage hero image](assets/Website-Screenshots/image.png)
 
+### Join Now button hover ###
 ![Homepage hero image](assets/images/Herobuttonhover.gif)
            
 
@@ -266,56 +284,55 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - Each button has a active effect which when clicking on the background colour of the button will be a darker shade.
 
-<br>
-<details>
-<summary> Offer section button hover </summary>
 
-![Homepage hero image](assets/Website-Screenshots/buttonhover.gif)
+<details>
+<summary> Screenshots </summary>
+
+### Card button hover effect ###
+<img src="assets/Website-Screenshots/buttonhover.gif"> 
 
 This button is on every card on the offer section. It gets slightly bigger when hovering over the element and turns a darker shade.
 
-</details>
 
 
-<br>
-<details>
-<summary> Mobile screenshots</summary>
 
-<img src="assets/Website-Screenshots/Offer1.png"> <br>
+### Mobile screenshots ###
 
-<img src="assets/Website-Screenshots/Offer2.png"> <br>
+<img src="assets/Website-Screenshots/Offer1.png"> 
 
-<img src="assets/Website-Screenshots/Offer3.png"> <br>
+<img src="assets/Website-Screenshots/Offer2.png"> 
+
+<img src="assets/Website-Screenshots/Offer3.png"> 
 
 <img src="assets/Website-Screenshots/Offer4.png">
 
-</details>
 
-<br>
 
-<details>
-<summary> Tablet screenshots</summary>
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-07 180756.png"> <br>
+
+
+### Tablet screenshots ###
+
+<img src="assets/Website-Screenshots/Screenshot 2025-01-07 180756.png">
 
 <img src="assets/Website-Screenshots/Screenshot 2025-01-07 180847.png">
 
 
 
-</details>
 
-<br>
 
-<details>
-<summary> Desktop screenshots </summary>
+
+
+### Desktop screenshots ###
 
 <img src="assets/Website-Screenshots/Screenshot 2025-01-07 182200.png">
 
 
-
 </details>
 
-#### **Location**
+
+
+#### **Location Section**
 
 - Shows a embeded map from google maps of the location of the gym to help users find the gym.
 
@@ -330,34 +347,29 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 - The table adapts to what screen size you are on.
 
-<br>
 
 <details>
-<summary> Screenshot Desktop </summary>
+<summary> Screenshots </summary>
 
+### Location - Desktop ###
 <img src="assets/Website-Screenshots/locationdesktop.png"> 
 
 
-
-</details>
-
-<br>
-<details>
-<summary> Screenshot Tablet </summary>
+### Location Tablet ###
 
 <img src="assets/Website-Screenshots/locationtablet.png"> 
 
-</details>
 
-<br>
-<details>
-<summary> Screenshot Mobile </summary>
+
+### Location Mobile ###
 
 <img src="assets/Website-Screenshots/locationmobile1.png">
 
 <img src="assets/Website-Screenshots/timesmobile.png">
 
 </details>
+
+<br>
 
 ### **Membership page**
 
@@ -374,21 +386,15 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 - Responsive on different screen size. Mobile users will have the classes cards in one column and four rows. Tablets and computers will have two columns and 2 rows.
 
-#### **Screenshots**
 
-<details> 
-<summary> Hero image   </summary>
-
-![Membership page hero image](assets/Website-Screenshots/heromembership.png)
-
-</details>
-
-<br>
 <details>
-<summary> Membership Mobile</summary>
+<summary> Screenshots </summary>
 
+### Hero image ###
 
+<img src="assets/Website-Screenshots/heromembership.png">
 
+### Membership Mobile ###
 
 <img src="assets/Website-Screenshots/membership1.png"> 
 
@@ -398,30 +404,24 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 <img src="assets/Website-Screenshots/membership4.png"> 
 
-</details>
 
-<br>
 
-<details>
-<summary> Membership Tablet </summary>
+
+ ### Membership Tablet ### 
 
 <img src="assets/Website-Screenshots/membership5.png"> 
 
 <img src="assets/Website-Screenshots/membership6.png"> 
 
 
-
-</details>
-
-<br>
-
-<details>
-<summary> Membership Desktop </summary>
+### Membership Desktop ###
 
 <img src="assets/Website-Screenshots/membership7.png"> 
 
 
 </details>
+
+<br>
 
 ### **Contact page**
 
@@ -435,38 +435,32 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 - The elements that are part of the form are required to be completed before the user can submit.
 
-#### **Screenshots**
 
-<details>
-<summary> Hero image </summary>
-
-<img src="assets/Website-Screenshots/herocontact.png">
-
-</details>
 
 <br>  
 
 <details>
-<summary> Screenshot Mobile </summary>
+<summary> Screenshots </summary>
 
+### Hero image ###
+<img src="assets/Website-Screenshots/herocontact.png">
+
+### Mobile ###
 <img src="assets/Website-Screenshots/contactmobile1.png">
 <img src="assets/Website-Screenshots/contactmobile2 (2).png">
 
-</details>
-<br>
 
-<details>
-<summary> Screenshot Tablet </summary>
+
+ ### Contact page - Tablet ###
 
 <img src="assets/Website-Screenshots/contacttablet.png">
 
 
-</details>
 
-<br>
 
-<details>
-<summary> Screenshot Desktop </summary>
+
+
+ ### Contact page - Desktop ###
 
 <img src="assets/Website-Screenshots/contactdesktop.png">
 
@@ -482,6 +476,19 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 - This page will give the user the option to view images of the gym and people training in the gym.
 
+- Video is included in the carousel and is responsive.
+
+- image sizes are responsive. 
+
+
+<details>
+<summary> Screenshots </summary>
+
+<img src="assets/Website-Screenshots/gallerypage.png">
+<img src="assets/Website-Screenshots/gallerypagetablet.png">
+
+</details>
+
 
 
 
@@ -496,24 +503,25 @@ This button is on every card on the offer section. It gets slightly bigger when 
 - Responsive on different screen size. Mobile users will have the classes cards in one column and four rows. Tablets and computers will have two columns and 2 rows.
 
 
-**Screenshots**
-
 <details>
-<summary> Screenshot Mobile </summary>
+<summary> Screenshot </summary>
+
+### Hero ###
+<img src="assets/Website-Screenshots/classeshero.png">
+
+### Classes page - mobile ###
 
 <img src="assets/Website-Screenshots/classes1.png">
 <img src="assets/Website-Screenshots/classes2.png">
 <img src="assets/Website-Screenshots/classes3.png">
 <img src="assets/Website-Screenshots/classes4.png">
-</details>
 
-<br>
+ ### Classes page - Tablet ###
+<img src="assets/Website-Screenshots/classestab1.png"> <img src="assets/Website-Screenshots/classestab2.png">
 
-<details>
-<summary> Screenshot Tablet </summary>
 
-<img src="assets/Website-Screenshots/classestab1.png">
-<img src="assets/Website-Screenshots/classestab2.png">
+### Classes page - Desktop ### 
+<img src="assets/Website-Screenshots/classesdesktop.png">
 </details>
 
 
@@ -551,6 +559,40 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 ### Accessibility
 
+I used the Wave accessibilty evaluation tool to test if my website is accessible. I picked up some issues when testing the pages.
+
+
+**incorrect semantic structure**
+<details>
+<summary> Screenshot </summary>
+
+<img src="assets/Website-Screenshots/membershipwave.png">
+
+</details>
+
+<br>
+I fixed this and changed the h5 on the membership cards to a h3 to make it in the right order.
+
+<br>
+
+**Unerlined text**
+
+<details>
+<summary> Screenshot </summary>
+
+<img src="assets/Website-Screenshots/contactwave.png">
+
+</details>
+<br>
+
+This was a error that showed up on the contact page and explained that underlined text indicates linked text. I fixed this by removing the underline in html.
+<br>
+
+**ARIA label**
+
+
+
+This error didn't show up on the Wave accessibilty evaluation tool but I seen an error on my ARIA label tags for my "Call Us" button on the membership page which has the wrong text in it and was the same ARIA label as the "Join Now" hero button. I fixed this by going into html contact page and changed it to match the action of the button.
 
 
 ### Performance using Lighthouse
@@ -577,7 +619,11 @@ Noticed on chrome dev tools that when changing the screen sizes, the cards borde
 
 **Card layout on screens 1400px and above**
 
-i wanted the cards on the What we offer section to all fit on the same row but the fourth one would go underneath. I looked at my code and changed both the cards on the left and right side and made them col-xxl-2 instead of 3 which made all cards stay on the same row.
+I wanted the cards on the What we offer section to all fit on the same row but the fourth one would go underneath. I looked at my code and changed both the cards on the left and right side and made them col-xxl-2 instead of 3 which made all cards stay on the same row.
+
+**Images causing bad performance**
+
+I was struggling with website performance with my images for a while. I spoke to student mentor and found out the images where to big and the wrong image format. I fixed this my resizing the images for different device breakpoints and converted them to a Webp file.
 
 
 ## Deployment
@@ -597,7 +643,26 @@ Navbar - https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works
 
 Images - https://pixabay.com/  https://pixabay.com/users/lewisgoodphotos-15859574/
 
+Membership hero image - https://unsplash.com/@yellowteapot
+
+Home hero image - https://unsplash.com/@samuelgirven
+
+Contact hero image - https://unsplash.com/@victorfreitas
+
+Classes hero image - https://www.pexels.com/@cottonbro/
+
+Offer section images - https://www.pexels.com/@pixabay/ https://unsplash.com/@victorfreitas https://pixabay.com/users/lewisgoodphotos-15859574/ https://pixabay.com/users/energiefitness-24268442/
+
 text-shadow h1 - https://www.w3schools.com/cssref/css3_pr_text-shadow.php
 
 SVG designs - https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/ Free SVG Backgrounds and Patterns by SVGBackgrounds.com
+
+Video - https://www.freepik.com/
+
+
+## Acknowledgements
+
+- Student mentor Gareth McGirr in helping me resize and convert images on this project for a better website performance.
+
+- Code Institute.
 

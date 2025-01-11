@@ -34,15 +34,9 @@ h1 {
     
 }
 
-h2 {
-    color: rgb(255, 255, 255);
-    font-family: "Barlow", sans-serif;
-    font-weight: 700;
-    font-style: normal; 
-}
 
 
-h3 {
+h2, h3 {
 
     color: white;
     font-family:"bungee" , sans-serif; ;
@@ -375,6 +369,7 @@ a {
 
 background-color: var(--primary-color);
 padding: 5px;
+padding-bottom: 60px;
 
 }
 
@@ -550,6 +545,7 @@ box-shadow: -13px 13px 20px #000000,
 
     #gallery-background {
         background-color: var(--primary-color);
+        padding: 5px;
     }
     
     .c-item {
@@ -560,9 +556,9 @@ box-shadow: -13px 13px 20px #000000,
     .c-img {
 
         height: 100%;
-        object-fit: cover;
+        object-fit: contain;
     }
-   
+
 
 /* Classes.htmml */
 
