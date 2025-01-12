@@ -239,6 +239,19 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 </details>
 
+
+#### **Favicon**
+
+- Every page on my site has a favicon. The favicon logo shows up on the tab at the top. This is used to represent a website and it can be helpful for a user that has lots of tabs open in their browser.
+
+
+<details>
+<summary> Screenshot </summary>
+
+<img src="assets/Website-Screenshots/faviconimage.png">
+
+</details>
+
 <br>
 
 ### Home page
@@ -553,7 +566,23 @@ This button is on every card on the offer section. It gets slightly bigger when 
 </details>
 
 
+#### 404 page  ####
 
+- This page appears when a user types in a page that doesn't exist.
+
+- Includes footer and navigation so the user can navigate to different pages.
+
+- Has a button under the 404 message like the one on the success page that sends the user to the home page.
+
+- Can reduce the bounce rate of viewers visiting the site.
+
+<details>
+<summary> Screenshot </summary>
+
+<img src="assets/Website-Screenshots/404page.png">
+
+
+</details>
 
 ### Future features
 
