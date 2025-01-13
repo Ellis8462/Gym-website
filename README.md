@@ -7,14 +7,14 @@ PureHealth Gym
 
 #### Project purpose 
 
-The purpose of this project is to create a website that helps provide important information that the local gym offers. Having a gym website allows clients to engage with gym services online which makes it more accessible for the users. Having the information on the website also allows potenial members that want to know more information before paying for a membership. The design and features on the website will hopefully attract customers to the gym. It makes it easier for users to find what they want to instead of ringing up or visiting the gym which is why navigating the website is quicker.
+The purpose of this project is to create a website that helps provide important information that the local gym offers. Having a gym website allows clients to engage with gym services online which makes it more accessible for users. Having the information on the website also allows potential members that want to know more information before paying for a membership. The design and features on the website will hopefully attract customers to the gym. It makes it easier for users to find what they want to instead of ringing up or visiting the gym which is why navigating the website is quicker.
 
 
 #### **User goals** ####
 
-Allows clients or potenial clients to view information about the gym on the web. This allows users to find information such as membership types, scheduling, location and etc. Users can pay for a membership from one of the options presented to them on the website. Paying online saves travel cost of traveling to the gym directly to pay.
+Allows clients or potential clients to view information about the gym on the web. This allows users to find information such as membership types, scheduling, location and etc. Users can pay for a membership from one of the options presented to them on the website. Paying online saves travel cost of traveling to the gym directly to pay.
 
-Different users will be looking for the same or different goals when visiting the website. The most important infomation on the page will be at the top so users can see it first when navigating. The website will help inspire and motivate users to join the gym and to start or continue their fitness journey. Having a website that is easy to use will help older demographics who might have less experience on the internet. It targets any demographic because health and fitness is important to all. Users will start on the index.html which is the homepage, from there they can navigate around the website and can go onto other pages such as contact.html which dedicates the entire page with the information they are looking for.
+Different users will be looking for the same or different goals when visiting the website. The most important information on the page will be at the top so users can see it first when navigating. The website will help inspire and motivate users to join the gym and to start or continue their fitness journey. Having a website that is easy to use will help older demographics who might have less experience on the internet. It targets any demographic because health and fitness is important to all demographics. Users will start on the index.html which is the homepage, from there they can navigate around the website and can go onto other pages such as contact.html which dedicates the entire page with the information they are looking for.
 
 
 
@@ -44,7 +44,7 @@ As a result of this goal, we will provide a website that looks visually appealin
 * Find the location.
 * See what the gym offers.
 
-Understanding what users want helps me build and structure the website around them.
+
 
 ### Research
 
@@ -110,7 +110,7 @@ The site has a structure of 5 pages and 2 sub pages:
 
 ### Colours
 
-For my colours, I wanted the main colours to be purple but decided that it would better and easier to see the text with a type of dark gray. For my secondary colour I chose a lighter gray which goes well with my main colour. Both colours makes it easier to see white text so that the text doesn't blend in with the background. For my accent colours I decided to make that a purple color which was orignally going to be my main colour. The purple makes interactive features stand out such as buttons and links. Hovering effect will be a a darker shade of purple with white text.
+For my colours, I wanted the main colours to be purple but decided that it would better and easier to see the text with a type of dark gray. For my secondary colour I chose a lighter gray which goes well with my main colour. Both colours makes it easier to see white text so that the text doesn't blend in with the background. For my accent colours I decided to make that a purple colour which was orignally going to be my main colour. The purple makes interactive features stand out such as buttons and links. Hovering effect will be a a darker shade of purple with white text.
 
 ![primary-color](https://github.com/user-attachments/assets/2d27955f-9de5-49e3-bda3-b04557cc494a)![secondary-color](https://github.com/user-attachments/assets/d2559f75-1315-438a-a0af-f9ce80a8d005) ![Website-Screenshots/Screenshot 2024-12-31 221330.png)](<assets/Website-Screenshots/Screenshot 2024-12-31 221330.png>)
 ### Fonts
@@ -156,6 +156,9 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 - [Wave accessibilty evaluation tool](https://wave.webaim.org/)
    - I used this to see if I can make any improvements for accessibilty for users.
 
+- [Favicon.io](https://favicon.io/)
+   - Used favicon to create a image to add to the website browser tab.
+
 
 ## 4. Features
 
@@ -171,7 +174,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - The page the user is on will be shown on the navbar and will have a higher font weight compared to the other pages.
 
-- When hovering over other nav links, it will show a colour of purple with a transition of 0.8s and a slight shadow on the text.
+- When hovering over other nav links, it will show a light purple with a transition of 0.8s and a slight shadow on the text.
 
 - On phones and tablets the navbar links can be accessed when you press the toggle button on the far right side of the navbar.
 
@@ -215,7 +218,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - The footer appears on all pages on the site.
 
-- The footer contains links to the gym's social media pages.
+- The footer contains links to the gym's social media pages which can be opened on a new tab.
 
 - The footer has general contact information such as the gym's email and phone number.
 
@@ -586,7 +589,11 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 ### Future features
 
+- I want to make 4k more responsive on my website.
 
+- Online classes.
+
+- Member portal
 
 ## 5. Testing & Bugs
 
@@ -706,7 +713,62 @@ I had some contrast errors with the purple on the buttons. I fixed this by chang
 
 ### Performance using Lighthouse
 
+I used lighthouse to test my website performance throughout the project. Lighthouse enables me to get reports back on suggestions for improvements. This enables me to make the website load faster on mobile and desktop.
 
+
+**Results** 
+
+
+<details>
+<summary> Mobile </summary>
+
+### Membership ### 
+<img src="assets/Website-Screenshots/membershipmobile.png">
+
+Added a preload to the hero image to make it load faster.
+
+
+### Contact ### 
+<img src="assets/Website-Screenshots/contactmobile.png">
+
+
+### Gallery ###
+<img src="assets/Website-Screenshots/gallerymobile.png">
+
+
+### Classes ###
+<img src="assets/Website-Screenshots/classesmobile.png">
+
+
+</details>
+
+
+<details>
+<summary> Desktop </summary>
+
+### Home ###
+<img src="assets/Website-Screenshots/homedesktop.png">
+
+The best practises issues came from google maps that I embed from. I couldn't really change this without removing the map because the issue is third-party cookies.
+
+### Membership ### 
+
+<img src="assets/Website-Screenshots/membershipdesktop.png">
+
+### Contact ### 
+
+<img src="assets/Website-Screenshots/contactdesktop (2).png">
+
+
+### Gallery ###
+
+<img src="assets/Website-Screenshots/gallerydesktop.png">
+
+### Classes ### 
+
+<img src="assets/Website-Screenshots/classesdesktop (2).png">
+
+</details>
 
 
 
@@ -733,6 +795,11 @@ I wanted the cards on the What we offer section to all fit on the same row but t
 **Images causing bad performance**
 
 I was struggling with website performance with my images for a while. I spoke to student mentor and found out the images where to big and the wrong image format. I fixed this my resizing the images for different device breakpoints and converted them to a Webp file.
+
+
+### Testing User Stories
+
+
 
 
 ## Deployment
@@ -771,7 +838,7 @@ Video - https://www.freepik.com/
 
 ## Acknowledgements
 
-- Student mentor Gareth McGirr in helping me resize and convert images on this project for a better website performance.
+- Student mentor Gareth McGirr in helping me throughout the project.
 
 - Code Institute.
 

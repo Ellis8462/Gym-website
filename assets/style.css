@@ -328,6 +328,7 @@ a {
 .card-img-top {
 
     min-width: 140px;
+   
 }
 
 
@@ -356,6 +357,7 @@ a {
     transition: 0.8s;
     transform: scale(1.1); 
 }
+
 
 
 /* Fixes issue with btn background */
