@@ -799,7 +799,171 @@ I was struggling with website performance with my images for a while. I spoke to
 
 ### Testing User Stories
 
+#### **User story 1:**
 
+When I first visit the website, I want a simple and easy to navigate website that is responsive, so that I can find important information about the gym quickly.
+
+
+
+**Feature**
+- Navbar adapts to screens for tablet and mobile with bootrap.
+
+**Action**
+
+- Click on the burger icon for it to open the navbar.
+
+**Expected Result**
+
+- Navbar will open and the links will be in a vertical line.
+
+
+
+#### **User story 2:**
+
+As a gym member I would like to contact and get in touch with a personal trainer so that I can schedule a session.
+
+
+**Feature**
+
+- Added a contact page with form and contact links.
+
+
+**Action**
+
+- that that can be accessed on everypage by clicking on the "Contact" link on the navbar. The page has links of emails and phone number.
+
+**Expected Result**
+
+- User finds contact information so that they can contact the gym and personal trainers.
+
+
+
+#### **User story 3:**
+
+I would like to see the variety of memberships the gym offers and information on the benefits of the types.
+
+
+**Feature**
+
+- Membership page with unique design and information on membership types.
+
+
+**Action**
+
+- Go to the navbar on the link "Membership" to get to the page. 
+
+- Access the membership page through the home page "what we offer" card and click the button on the membership card.
+
+**Expected Result**
+
+- User can access the page with 2 options through the navbar and home page.
+
+
+#### **User story 4:**
+
+As a local resident I want to find the location of the gym as well as the opening and closing times.
+
+
+**Feature**
+
+- location and time table.
+
+
+**Action**
+
+- Access the location section from the navbar link which takes you to the bottom of the home page at the location section. 
+
+- Access the location section by scrolling to the bottom of the home page to find map and opening/closing times.
+
+**Expected Result**
+
+- User can find the information about locations and times with 2 options through the navbar and scolling down to the location section on the home page.
+
+
+#### **User story 5:**
+
+As a client looking to purchase a membership, I would like to see pictures of the gym and the environment in which I could potentially be working out in.
+
+
+**Feature**
+
+- Gallery with carousel that has images and videos.
+
+
+**Action**
+
+- Access the gallery page through the navbar link. 
+
+- Access the gallery page by the home page "what we offer" section by clicking on the button of the "amazing facility" card.
+
+**Expected Result**
+
+- User can find the gallery images and videos through both ways.
+
+
+
+#### **User story 6:**
+
+As a user it would be useful if I could view the map of the place on the website.
+
+
+**Feature**
+
+- Interactive map.
+
+
+**Action**
+
+- Access the map through the location link on the navbar. 
+
+- Access the map page by scrolling down to the location section of the home page.
+
+**Expected Result**
+
+- User can use the interactive map from google maps to view the surrounding area of the gym.
+
+
+
+#### **User story 7:**
+
+As a gym member I want to send feedback to the owners and employees on services, sessions and facility.
+
+
+**Feature**
+
+- Contact form
+
+
+**Action**
+
+- Access the form by going to the contact page from the navbar. In the form type in name, email, phone number and message.
+
+
+**Expected Result**
+
+- User can contact the gym by sending a message through the form and all fields are required to fill.
+
+
+#### **User story 8:**
+
+As a member or potential member I would like to see what classes the gym offers.
+
+
+**Feature**
+
+- Classes page with class types and times.
+
+
+**Action**
+
+- Access the classes page through the navbar link and scoll down to see the classes the gym offers.
+
+- Click the classes card button on the "What we offer" section on the home page.
+
+
+**Expected Result**
+
+- User can view the classes and times with both ways.
 
 
 ## Deployment
