@@ -1,4 +1,11 @@
-PureHealth Gym
+# PureHealth Gym
+
+<img src="docs/readme_images/Screenshot 2025-01-15 115757.png">
+
+
+#### **Live website**
+
+https://ellis8462.github.io/PureHealth/
 
 ## 1. UX
 
@@ -112,7 +119,7 @@ The site has a structure of 5 pages and 2 sub pages:
 
 For my colours, I wanted the main colours to be purple but decided that it would better and easier to see the text with a type of dark gray. For my secondary colour I chose a lighter gray which goes well with my main colour. Both colours makes it easier to see white text so that the text doesn't blend in with the background. For my accent colours I decided to make that a purple colour which was orignally going to be my main colour. The purple makes interactive features stand out such as buttons and links. Hovering effect will be a a darker shade of purple with white text.
 
-![primary-color](https://github.com/user-attachments/assets/2d27955f-9de5-49e3-bda3-b04557cc494a)![secondary-color](https://github.com/user-attachments/assets/d2559f75-1315-438a-a0af-f9ce80a8d005) ![Website-Screenshots/Screenshot 2024-12-31 221330.png)](<assets/Website-Screenshots/Screenshot 2024-12-31 221330.png>)
+![primary-color](https://github.com/user-attachments/assets/2d27955f-9de5-49e3-bda3-b04557cc494a)![secondary-color](https://github.com/user-attachments/assets/d2559f75-1315-438a-a0af-f9ce80a8d005) ![Website-Screenshots/Screenshot 2024-12-31 221330.png)](<docs/readme_images/Screenshot 2024-12-31 221330.png>)
 ### Fonts
 
 For my fonts I imported fonts from Google fonts. I used the font Bungee for headings because this font makes it stand out and clear to read. For the body text I decided to use Markazi and for navbar links I used system-ui, -apple-system.
@@ -180,6 +187,23 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 
 - Logo is placed on the far left of the navbar.
 
+<details>
+<summary> Screenshots </summary>
+
+### Mobile and Tablet ###
+
+ <img src="docs/readme_images/mobilenavbar.png">
+
+### Desktop ### 
+
+<img src="docs/readme_images/computernavbar.png">
+
+### Navbar Link Hover ###
+<img src="docs/readme_images/navbarhover.gif">
+
+
+</details>
+
 
 #### **Hero Section**
 
@@ -201,16 +225,16 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <summary> Hero Home Screenshots </summary>
 
 ### Mobile Screenshot ###
- <img src="assets/Website-Screenshots/Screenshot 2025-01-01 013648.png">
+ <img src="docs/readme_images/Screenshot 2025-01-01 013648.png">
 
 
 ### Tablet Screenshot ###
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01-012900.png">
+<img src="docs/readme_images/Screenshot 2025-01-01-012900.png">
 
  ### Desktop Screenshot ###
 
-<img src="assets/Website-Screenshots/image.png">
+<img src="docs/readme_images/image.png">
 
 </details>
 
@@ -232,13 +256,13 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <summary> Footer Screenshot </summary>
 
 **Mobile** <br>
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 045821.png">
+<img src="docs/readme_images/Screenshot 2025-01-01 045821.png">
 
 **Tablet** <br>
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 051020.png">
+<img src="docs/readme_images/Screenshot 2025-01-01 051020.png">
 
 **Desktop** <br>
-<img src="assets/Website-Screenshots/Screenshot 2025-01-01 051238.png">
+<img src="docs/readme_images/Screenshot 2025-01-01 051238.png">
 
 </details>
 
@@ -251,7 +275,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <details>
 <summary> Screenshot </summary>
 
-<img src="assets/Website-Screenshots/faviconimage.png">
+<img src="docs/readme_images/faviconimage.png">
 
 </details>
 
@@ -274,10 +298,10 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <summary>Screenshot </summary>
 
 ### Hero ###
-![Homepage hero image](assets/Website-Screenshots/image.png)
+![Homepage hero image](docs/readme_images/image.png)
 
 ### Join Now button hover ###
-![Homepage hero image](assets/images/Herobuttonhover.gif)
+![Homepage hero image](docs/readme_images/Herobuttonhover.gif)
            
 
 </details>
@@ -307,7 +331,7 @@ For my fonts I imported fonts from Google fonts. I used the font Bungee for head
 <summary> Screenshots </summary>
 
 ### Card button hover effect ###
-<img src="assets/Website-Screenshots/buttonhover.gif"> 
+<img src="docs/readme_images/buttonhover.gif"> 
 
 This button is on every card on the offer section. It gets slightly bigger when hovering over the element and turns a darker shade.
 
@@ -316,13 +340,13 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 ### Mobile screenshots ###
 
-<img src="assets/Website-Screenshots/Offer1.png"> 
+<img src="docs/readme_images/Offer1.png"> 
 
-<img src="assets/Website-Screenshots/Offer2.png"> 
+<img src="docs/readme_images/Offer2.png"> 
 
-<img src="assets/Website-Screenshots/Offer3.png"> 
+<img src="docs/readme_images/Offer3.png"> 
 
-<img src="assets/Website-Screenshots/Offer4.png">
+<img src="docs/readme_images/Offer4.png">
 
 
 
@@ -331,9 +355,9 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 ### Tablet screenshots ###
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-07 180756.png">
+<img src="docs/readme_images/Screenshot 2025-01-07 180756.png">
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-07 180847.png">
+<img src="docs/readme_images/Screenshot 2025-01-07 180847.png">
 
 
 
@@ -341,12 +365,12 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 ### Desktop screenshots ###
 
-<img src="assets/Website-Screenshots/Screenshot 2025-01-07 182200.png">
+<img src="docs/readme_images/Screenshot 2025-01-07 182200.png">
 
 
 ### Desktop hover effect ###
 
-<img src="assets/Website-Screenshots/offersectionhover.gif">
+<img src="docs/readme_images/offersectionhover.gif">
 
 
 </details>
@@ -373,20 +397,20 @@ This button is on every card on the offer section. It gets slightly bigger when 
 <summary> Screenshots </summary>
 
 ### Location - Desktop ###
-<img src="assets/Website-Screenshots/locationdesktop.png"> 
+<img src="docs/readme_images/locationdesktop.png"> 
 
 
 ### Location Tablet ###
 
-<img src="assets/Website-Screenshots/locationtablet.png"> 
+<img src="docs/readme_images/locationtablet.png"> 
 
 
 
 ### Location Mobile ###
 
-<img src="assets/Website-Screenshots/locationmobile1.png">
+<img src="docs/readme_images/locationmobile1.png">
 
-<img src="assets/Website-Screenshots/timesmobile.png">
+<img src="docs/readme_images/timesmobile.png">
 
 </details>
 
@@ -413,31 +437,31 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 ### Hero image ###
 
-<img src="assets/Website-Screenshots/heromembership.png">
+<img src="docs/readme_images/heromembership.png">
 
 ### Membership Mobile ###
 
-<img src="assets/Website-Screenshots/membership1.png"> 
+<img src="docs/readme_images/membership1.png"> 
 
-<img src="assets/Website-Screenshots/membership2.png"> 
+<img src="docs/readme_images/membership2.png"> 
 
-<img src="assets/Website-Screenshots/membership3.png"> 
+<img src="docs/readme_images/membership3.png"> 
 
-<img src="assets/Website-Screenshots/membership4.png"> 
+<img src="docs/readme_images/membership4.png"> 
 
 
 
 
  ### Membership Tablet ### 
 
-<img src="assets/Website-Screenshots/membership5.png"> 
+<img src="docs/readme_images/membership5.png"> 
 
-<img src="assets/Website-Screenshots/membership6.png"> 
+<img src="docs/readme_images/membership6.png"> 
 
 
 ### Membership Desktop ###
 
-<img src="assets/Website-Screenshots/membership7.png"> 
+<img src="docs/readme_images/membership7.png"> 
 
 
 </details>
@@ -464,26 +488,23 @@ This button is on every card on the offer section. It gets slightly bigger when 
 <summary> Screenshots </summary>
 
 ### Hero image ###
-<img src="assets/Website-Screenshots/herocontact.png">
+<img src="docs/readme_images/herocontact.png">
 
 ### Mobile ###
-<img src="assets/Website-Screenshots/contactmobile1.png">
-<img src="assets/Website-Screenshots/contactmobile2 (2).png">
+<img src="docs/readme_images/contactmobile1.png">
+<img src="docs/readme_images/contactmobile2 (2).png">
 
 
 
  ### Contact page - Tablet ###
 
-<img src="assets/Website-Screenshots/contacttablet.png">
-
-
-
+<img src="docs/readme_images/contacttablet.png">
 
 
 
  ### Contact page - Desktop ###
 
-<img src="assets/Website-Screenshots/contactdesktop.png">
+<img src="docs/readme_images/contactdesktop.png">
 
 
 </details>
@@ -505,8 +526,8 @@ This button is on every card on the offer section. It gets slightly bigger when 
 <details>
 <summary> Screenshots </summary>
 
-<img src="assets/Website-Screenshots/gallerypage.png">
-<img src="assets/Website-Screenshots/gallerypagetablet.png">
+<img src="docs/readme_images/gallerypage.png">
+<img src="docs/readme_images/gallerypagetablet.png">
 
 </details>
 
@@ -528,21 +549,21 @@ This button is on every card on the offer section. It gets slightly bigger when 
 <summary> Screenshot </summary>
 
 ### Hero ###
-<img src="assets/Website-Screenshots/classeshero.png">
+<img src="docs/readme_images/classeshero.png">
 
 ### Classes page - mobile ###
 
-<img src="assets/Website-Screenshots/classes1.png">
-<img src="assets/Website-Screenshots/classes2.png">
-<img src="assets/Website-Screenshots/classes3.png">
-<img src="assets/Website-Screenshots/classes4.png">
+<img src="docs/readme_images/classes1.png">
+<img src="docs/readme_images/classes2.png">
+<img src="docs/readme_images/classes3.png">
+<img src="docs/readme_images/classes4.png">
 
  ### Classes page - Tablet ###
-<img src="assets/Website-Screenshots/classestab1.png"> <img src="assets/Website-Screenshots/classestab2.png">
+<img src="docs/readme_images/classestab1.png"> <img src="docs/readme_images/classestab2.png">
 
 
 ### Classes page - Desktop ### 
-<img src="assets/Website-Screenshots/classesdesktop.png">
+<img src="docs/readme_images/classesdesktop.png">
 </details>
 
 
@@ -563,7 +584,7 @@ This button is on every card on the offer section. It gets slightly bigger when 
 <details>
 <summary> Screenshot </summary>
 
-<img src="assets/Website-Screenshots/successpage.png">
+<img src="docs/readme_images/successpage.png">
 
 
 </details>
@@ -582,7 +603,7 @@ This button is on every card on the offer section. It gets slightly bigger when 
 <details>
 <summary> Screenshot </summary>
 
-<img src="assets/Website-Screenshots/404page.png">
+<img src="docs/readme_images/404page.png">
 
 
 </details>
@@ -593,7 +614,7 @@ This button is on every card on the offer section. It gets slightly bigger when 
 
 - Online classes.
 
-- Member portal
+- Member Responsiveness
 
 ## 5. Testing & Bugs
 
@@ -608,7 +629,7 @@ To test my html code validation I used the [W3C HTML Validator](https://validato
 
 Removed the extra div
 
-<img src="assets/Website-Screenshots/indexvalidator.png">
+<img src="docs/readme_images/indexvalidator.png">
 
 
 </details>
@@ -619,11 +640,11 @@ Removed the extra div
 
 There were errors on my cards and fixed this by removing the div elements for my prices and removing the h3 from the prices which were making it have a child element. I fixed this by putting the h3 element closing tag before the start of the prices. I also added a h4 to the prices and tested the code again and came back with no errors.
 
-<img src="assets/Website-Screenshots/membershipvalidator.png">
+<img src="docs/readme_images/membershipvalidator.png">
 
 Fix
 
-<img src="assets/Website-Screenshots/pricessemanticfix.png">
+<img src="docs/readme_images/pricessemanticfix.png">
 
 </details>
 
@@ -633,7 +654,7 @@ Fix
 
 Couple of minor issues which I removed when testing the contact page in validator.
 
-<img src="assets/Website-Screenshots/contactvalidator.png">
+<img src="docs/readme_images/contactvalidator.png">
 
 
 </details>
@@ -642,7 +663,7 @@ Couple of minor issues which I removed when testing the contact page in validato
 <details>
 <summary> gallery.html  </summary>
 
-<img src="assets/Website-Screenshots/galleryvalidator.png">
+<img src="docs/readme_images/galleryvalidator.png">
 
 </details>
 
@@ -651,7 +672,7 @@ Couple of minor issues which I removed when testing the contact page in validato
 <details>
 <summary> classes.html  </summary>
 
-<img src="assets/Website-Screenshots/classesvalidator.png">
+<img src="docs/readme_images/classesvalidator.png">
 
 </details>
 
@@ -664,7 +685,7 @@ I copied my style.css code into the [W3C CSS Validator](https://jigsaw.w3.org/cs
 <details>
 <summary> style.css </summary>
 
-<img src="assets/Website-Screenshots/cssvalidator.png">
+<img src="docs/readme_images/cssvalidator.png">
 
 </details>
 
@@ -678,7 +699,7 @@ I used the Wave accessibilty evaluation tool to test if my website is accessible
 <details>
 <summary> Screenshot </summary>
 
-<img src="assets/Website-Screenshots/membershipwave.png">
+<img src="docs/readme_images/membershipwave.png">
 
 </details>
 
@@ -692,7 +713,7 @@ I fixed this and changed the h5 on the membership cards to a h3 to make it in th
 <details>
 <summary> Screenshot </summary>
 
-<img src="assets/Website-Screenshots/contactwave.png">
+<img src="docs/readme_images/contactwave.png">
 
 </details>
 <br>
@@ -722,22 +743,25 @@ I used lighthouse to test my website performance throughout the project. Lightho
 <details>
 <summary> Mobile </summary>
 
+### Home ### 
+<img src="docs/readme_images/mobilehomelighthouse.png">
+
 ### Membership ### 
-<img src="assets/Website-Screenshots/membershipmobile.png">
+<img src="docs/readme_images/membershipmobile.png">
 
 Added a preload to the hero image to make it load faster.
 
 
 ### Contact ### 
-<img src="assets/Website-Screenshots/contactmobile.png">
+<img src="docs/readme_images/contactmobile.png">
 
 
 ### Gallery ###
-<img src="assets/Website-Screenshots/gallerymobile.png">
+<img src="docs/readme_images/gallerymobile.png">
 
 
 ### Classes ###
-<img src="assets/Website-Screenshots/classesmobile.png">
+<img src="docs/readme_images/classesmobile.png">
 
 
 </details>
@@ -747,26 +771,26 @@ Added a preload to the hero image to make it load faster.
 <summary> Desktop </summary>
 
 ### Home ###
-<img src="assets/Website-Screenshots/homedesktop.png">
+<img src="docs/readme_images/homedesktop.png">
 
 The best practises issues came from google maps that I embed from. I couldn't really change this without removing the map because the issue is third-party cookies.
 
 ### Membership ### 
 
-<img src="assets/Website-Screenshots/membershipdesktop.png">
+<img src="docs/readme_images/membershipdesktop.png">
 
 ### Contact ### 
 
-<img src="assets/Website-Screenshots/contactdesktop (2).png">
+<img src="docs/readme_images/contactdesktop (2).png">
 
 
 ### Gallery ###
 
-<img src="assets/Website-Screenshots/gallerydesktop.png">
+<img src="docs/readme_images/gallerydesktop.png">
 
 ### Classes ### 
 
-<img src="assets/Website-Screenshots/classesdesktop (2).png">
+<img src="docs/readme_images/classesdesktop (2).png">
 
 </details>
 
@@ -774,7 +798,17 @@ The best practises issues came from google maps that I embed from. I couldn't re
 
 ### Testing on different devices
 
+I tested different devices through Google Chrome Developer Tools. This tool allowed me to adjust the size of the screen. 
 
+There were no issues when testing screen sizes for mobile, tablet and desktop.
+
+### Browser Compatibility 
+
+The website was tested on these browsers:
+
+- Google Chrome
+
+- Mozilla Firefox
 
 ### Bugs during development and fixes
 
@@ -830,7 +864,9 @@ As a gym member I would like to contact and get in touch with a personal trainer
 
 **Action**
 
-- that that can be accessed on everypage by clicking on the "Contact" link on the navbar. The page has links of emails and phone number.
+- that that can be accessed on everypage by clicking on the "Contact" link on the navbar. The page has links emails and phone number.
+
+
 
 **Expected Result**
 
@@ -853,6 +889,8 @@ I would like to see the variety of memberships the gym offers and information on
 - Go to the navbar on the link "Membership" to get to the page. 
 
 - Access the membership page through the home page "what we offer" card and click the button on the membership card.
+
+- Click on the "Join Now" button on the home page hero image which sends you to the membership page.
 
 **Expected Result**
 
@@ -938,10 +976,99 @@ As a gym member I want to send feedback to the owners and employees on services,
 
 - Access the form by going to the contact page from the navbar. In the form type in name, email, phone number and message.
 
+_Scenario one - User fills in all boxes correctly_
+
+Steps to test: 
+
+1. Navigate to the contact page on the navbar link on any page.
+2. Scoll down to the contact and type in:
+ - Name: John Doe
+ - Email adress: JohnDoe@example.com
+ - Phone Number: 0712345678
+ - Message: Test
+
+ 3. Click the Submit button
+ 4. User will be sent to the Success page.
+
 
 **Expected Result**
 
-- User can contact the gym by sending a message through the form and all fields are required to fill.
+ User can contact the gym by sending a message through which then sends them to the success page.
+
+**Result**
+
+Works as expected.
+
+_Scenario two - Missing required name_
+
+Steps to test: 
+
+1. Navigate to the contact page on the navbar link on any page.
+2. Scoll down to the contact and type in:
+ - Name: 
+ - Email adress: JohnDoe@example.com
+ - Phone Number: 0712345678
+ - Message: Test
+
+ 3. Click the Submit button
+ 
+
+
+ **Expected Result**
+ 
+ User will be told to "Please fill in this field" and will not be able to submit the form.
+
+**Result**
+
+Form does not submit without the name field having a input.
+
+
+_Scenario three - Missing required email adress_
+
+Steps to test: 
+
+1. Navigate to the contact page on the navbar link on any page.
+2. Scoll down to the contact and type in:
+ - Name: John Doe
+ - Email adress: 
+ - Phone Number: 0712345678
+ - Message: Test
+
+ 3. Click the Submit button
+ 
+
+
+ **Expected Result**
+ 
+ User will be told to "Please fill in this field" and will not be able to submit the form. If the user types a input without a @ it won't submit.
+
+**Result**
+
+Form will not submit without the email field having a input and a @.
+
+
+_Scenario four - Missing required phone number_
+
+Steps to test: 
+
+1. Navigate to the contact page on the navbar link on any page.
+2. Scoll down to the contact and type in:
+ - Name: John Doe
+ - Email adress: JohnDoe@example.com
+ - Phone Number: 
+ - Message: Test
+
+ 3. Click the Submit button
+ 
+
+
+ **Expected Result**
+ 
+ User will be told to "Please fill in this field" and will not be able to submit the form.
+
+**Result**
+
+Form does not submit without a number.
 
 
 #### **User story 8:**
@@ -968,11 +1095,42 @@ As a member or potential member I would like to see what classes the gym offers.
 
 ## Deployment
 
-
-
 ### Github
 
+### Version Control
 
+The site was created using the Visual Studio code editor and pushed to github to the remote repository.
+
+The following git commands were used throughout development to push code to the remote repo:
+
+```git add <file>``` - This command was used to add the file(s) to the staging area before they are committed.
+
+```git commit -m “commit message”``` - This command was used to commit changes to the local repository queue ready for the final step.
+
+```git push``` - This command was used to push all committed code to the remote repository on github.
+
+### Deployment to Github Pages
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the menu on left select 'Pages'
+  - From the source section drop-down menu, select the Branch: main
+  - Click 'Save'
+  - A live link will be displayed in a green banner when published successfully. 
+
+The live link can be found here - https://ellis8462.github.io/PureHealth/ 
+
+### Clone the Repository Code Locally
+
+Navigate to the GitHub Repository you want to clone to use locally:
+
+- Click on the code drop down button
+- Click on HTTPS
+- Copy the repository link to the clipboard
+- Open your IDE of choice (git must be installed for the next steps)
+- Type git clone copied-git-url into the IDE terminal
+
+The project will now of been cloned on your local machine for use.
 
 ## Credits
 

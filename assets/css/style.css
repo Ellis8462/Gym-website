@@ -181,7 +181,7 @@ a {
 
 #hero-membership {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/heromembership.webp) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/heromembership.webp) no-repeat center center;
     height: 40vh;
     min-height: 300px;
     background-attachment: fixed;
@@ -191,7 +191,7 @@ a {
 
 #hero-contact {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/victor-freitas-vjkM-0m34KU-unsplash-_1_.webp)no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/victor-freitas-vjkM-0m34KU-unsplash-_1_.webp)no-repeat center center;
     height: 40vh;
     min-height: 300px;
     background-attachment: fixed;
@@ -203,7 +203,7 @@ a {
 
 #hero-classes {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/pexels-cottonbro-4761352.webp)no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/pexels-cottonbro-4761352.webp)no-repeat center center;
     height: 40vh;
     min-height: 300px;
     background-attachment: fixed;
@@ -677,7 +677,7 @@ font-size: 12px;
 
     #hero {
       
-    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated800x533.webp) no-repeat center center !important;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated800x533.webp) no-repeat center center !important;
     height: 85vh !important;
     background-attachment:fixed !important;
     background-size: cover !important;
@@ -745,7 +745,7 @@ font-size: 12px;
 
     #hero {
 
-    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated.webp) no-repeat center center !important;
+    background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated.webp) no-repeat center center !important;
     min-height: 85vh !important;
     background-attachment:fixed !important;;
     background-size: cover !important;
@@ -824,7 +824,7 @@ font-size: 12px;
 
 
     #hero {
-        background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(../assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated.webp) no-repeat center center !important;
+        background: linear-gradient(rgba(0, 0, 0, 0) 5%, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0.9) 90%), url(/assets/images/samuel-girven-fqMu99l8sqo-unsplashupdated.webp) no-repeat center center !important;
         background-attachment:fixed !important;;
         background-size: cover !important;
         min-height: 720px !important;
